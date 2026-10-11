@@ -1,0 +1,175 @@
+{
+  "additional_conversion_omissions": 0,
+  "categories": {
+    "pooban-adguard": {
+      "counts": {
+        "domains": 181069,
+        "ipv4": 0,
+        "ipv6": 0,
+        "regexps": 0
+      },
+      "outputs": {
+        "pooban-adguard": {
+          "domain": 1,
+          "domain_suffix": 181068
+        },
+        "pooban-adguard-domain": {
+          "domain": 1,
+          "domain_suffix": 181068
+        }
+      },
+      "regexps_copied_verbatim": []
+    },
+    "pooban-china": {
+      "counts": {
+        "domains": 6624,
+        "ipv4": 8204,
+        "ipv6": 11467,
+        "regexps": 3
+      },
+      "outputs": {
+        "pooban-china": {
+          "domain": 44,
+          "domain_regex": 3,
+          "domain_suffix": 6577,
+          "ip_cidr": 19671
+        },
+        "pooban-china-domain": {
+          "domain": 44,
+          "domain_regex": 3,
+          "domain_suffix": 6577
+        },
+        "pooban-china-ip": {
+          "ip_cidr": 19671
+        }
+      },
+      "regexps_copied_verbatim": [
+        ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$",
+        ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$",
+        "^.+-mihayo\\.akamaized\\.net$"
+      ]
+    },
+    "pooban-facebook": {
+      "counts": {
+        "domains": 397,
+        "ipv4": 0,
+        "ipv6": 0,
+        "regexps": 0
+      },
+      "outputs": {
+        "pooban-facebook": {
+          "domain": 1,
+          "domain_suffix": 396
+        },
+        "pooban-facebook-domain": {
+          "domain": 1,
+          "domain_suffix": 396
+        }
+      },
+      "regexps_copied_verbatim": []
+    },
+    "pooban-google": {
+      "counts": {
+        "domains": 1122,
+        "ipv4": 0,
+        "ipv6": 0,
+        "regexps": 2
+      },
+      "outputs": {
+        "pooban-google": {
+          "domain": 236,
+          "domain_regex": 2,
+          "domain_suffix": 884
+        },
+        "pooban-google-domain": {
+          "domain": 236,
+          "domain_regex": 2,
+          "domain_suffix": 884
+        }
+      },
+      "regexps_copied_verbatim": [
+        "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com$",
+        "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$"
+      ]
+    },
+    "pooban-instagram": {
+      "counts": {
+        "domains": 73,
+        "ipv4": 0,
+        "ipv6": 0,
+        "regexps": 0
+      },
+      "outputs": {
+        "pooban-instagram": {
+          "domain_suffix": 73
+        },
+        "pooban-instagram-domain": {
+          "domain_suffix": 73
+        }
+      },
+      "regexps_copied_verbatim": []
+    },
+    "pooban-openai": {
+      "counts": {
+        "domains": 36,
+        "ipv4": 24,
+        "ipv6": 0,
+        "regexps": 7
+      },
+      "outputs": {
+        "pooban-openai": {
+          "domain": 16,
+          "domain_regex": 7,
+          "domain_suffix": 13,
+          "ip_cidr": 24
+        },
+        "pooban-openai-domain": {
+          "domain": 16,
+          "domain_regex": 7,
+          "domain_suffix": 13
+        },
+        "pooban-openai-ip": {
+          "ip_cidr": 24
+        }
+      },
+      "regexps_copied_verbatim": [
+        "^(?:[^.]+\\.)+auth\\.openai\\.com$",
+        "^(?:[^.]+\\.)+chatgpt\\.com$",
+        "^(?:[^.]+\\.)+oaistatic\\.com$",
+        "^(?:[^.]+\\.)+oaistatsig\\.com$",
+        "^(?:[^.]+\\.)+oaiusercontent\\.com$",
+        "^(?:[^.]+\\.)+openai\\.com$",
+        "^chatgpt-async-webps-prod-\\S+-\\d+\\.webpubsub\\.azure\\.com$"
+      ]
+    },
+    "pooban-whatsapp": {
+      "counts": {
+        "domains": 11,
+        "ipv4": 0,
+        "ipv6": 0,
+        "regexps": 0
+      },
+      "outputs": {
+        "pooban-whatsapp": {
+          "domain_suffix": 11
+        },
+        "pooban-whatsapp-domain": {
+          "domain_suffix": 11
+        }
+      },
+      "regexps_copied_verbatim": []
+    }
+  },
+  "failure_policy": "Unknown syntax, altered inventory, engine errors, unexpected shrink or reference drift stop publication",
+  "inherited_adguard_diagnostics": 762,
+  "mapping": {
+    "domain": "domain_suffix",
+    "full": "domain",
+    "keyword": "domain_keyword",
+    "regexp": "domain_regex"
+  },
+  "reference_commit": "fdb978f07ef6205866f85128468fa5505e2c68eb",
+  "scope": "Exact projection of the reference's resolved hostname/IP sets; not the entire upstream AdGuard language",
+  "status": "lossless",
+  "unconverted_rules": []
+}

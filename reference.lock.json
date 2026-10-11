@@ -1,0 +1,29 @@
+{
+  "commit": "fdb978f07ef6205866f85128468fa5505e2c68eb",
+  "files": {
+    "LICENSE": "941062fa461b8992192973ebbb00321cc1ae976643dfcc5045a2879c649a5bf0",
+    "NOTICE.md": "0ed83ebbf033df8638445df7afaf5b9525894d5f58f28bde682bc9f010ac14f7",
+    "README.md": "1f27065802553900c4a32b7fd00efb6c28e0739b0a10d0447e15d2f28c9c6d78",
+    "README.zh-CN.md": "54c557ee9933b7742d287f4f58804920948dc8ba77248175b10a50605208090a",
+    "data/Meta/sukka-review.json": "36dbaced73c24886823f973acf52faeb7d2291ce90763810c4e1dc73de7b39be",
+    "data/OpenAI/official-domains-excluded.txt": "7cd36f96f4df2edbbc569f93706b31202e24ed1b0244348a249e906471ec6bbd",
+    "data/OpenAI/official-domains.txt": "d46ed3f8b878bb4b7da4287482c018eca1f15c796802e21e5f27a9431311ecec",
+    "licenses/AdGuard-GPL-3.0.txt": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2",
+    "licenses/GeoLite-CC-BY-SA-4.0.txt": "cde7883b9050a1104f4ac19a1572aafd6e5d7323b68351aaf51fbf4beba54966",
+    "licenses/Sukka-AGPL-3.0.txt": "8486a10c4393cee1c25392769ddd3b2d6c242d6ec7928e1414efff7dfb2f07ef",
+    "licenses/v2fly-MIT.txt": "b9d84a22870d3f21c91a4c6e410c9cc51d00902f5233ad0c84011479244bf7d2",
+    "requirements.txt": "393f77f9112683a605973ec160220667205d1538061d78e4017cfbaa1d23a5c3",
+    "scripts/__init__.py": "500e3caf472e4f1bee378faf7cb22c89965259f56870084369c0b93989048e72",
+    "scripts/adguard.py": "a598251f598bd2d1c0aa4195a9dc6b0c15757521e22be98424698988c16a6c39",
+    "scripts/build.py": "d37c87593617d91e63f7b3cf63c4b1abbb76baabb2f62ae930cdc3fb350a1ab3",
+    "scripts/fetch_xray.py": "5194010163b2adc782a70f9a9dc00c8d94aa7903eb1d1b12cbe1931a1ba6d751",
+    "scripts/google.py": "2300b6ae8bc2a4f89d2f9cd14c28419e064013d5a8f448256bcc29a89fda1b47",
+    "scripts/meta_common.py": "e16d808033c37ee02f2483fe30c18c16241e74c0e009f647673c4fc295a1d69e",
+    "scripts/model.py": "d4eda117a71136cf1b66c37b955b9ab17baecb48f88d8da202ee65eeda92f25d",
+    "scripts/privacy.py": "a5d98941d751826f70521e92dde66ad1d228b7755a96f0f4ec2137f7d9fc896c",
+    "scripts/verify.py": "4a086c245ad17eb723aa78987376fceb55bfc7998d62b08af6554eee27b93249",
+    "tests/test_meta.py": "8ffdb80d3fa0a40a1bd454f389a25e0ded679fa21ec6fda080b606a8216a90cc",
+    "tests/test_rules.py": "8f1d488cb5a665abf952a2efa27d2675ebd385ee36cf65f218349e43961d4d4a"
+  },
+  "repository": "https://github.com/poohyeban/passwall2-rules"
+}

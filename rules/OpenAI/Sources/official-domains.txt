@@ -1,0 +1,13 @@
+full:android.chat.openai.com
+full:auth0.openai.com
+full:chat.openai.com
+full:desktop.chat.openai.com
+full:ios.chat.openai.com
+full:setup.auth.openai.com
+full:tcr9i.chat.openai.com
+regexp:^(?:[^.]+\.)+auth\.openai\.com$
+regexp:^(?:[^.]+\.)+chatgpt\.com$
+regexp:^(?:[^.]+\.)+oaistatic\.com$
+regexp:^(?:[^.]+\.)+oaistatsig\.com$
+regexp:^(?:[^.]+\.)+oaiusercontent\.com$
+regexp:^(?:[^.]+\.)+openai\.com$

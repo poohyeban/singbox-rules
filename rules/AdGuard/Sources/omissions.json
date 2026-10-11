@@ -1,0 +1,3050 @@
+[
+  {
+    "reason": "cannot-match-hostname",
+    "rule": "/(https?:\\/\\/)213\\.32\\.115\\..{100,}/"
+  },
+  {
+    "reason": "cannot-match-hostname",
+    "rule": "/(https?:\\/\\/)217\\.182\\.11\\..{100,}/"
+  },
+  {
+    "reason": "cannot-match-hostname",
+    "rule": "/(https?:\\/\\/)51\\.195\\.31\\..{100,}/"
+  },
+  {
+    "reason": "cannot-match-hostname",
+    "rule": "/193.200.64.24:/"
+  },
+  {
+    "reason": "cannot-match-hostname",
+    "rule": "/^139\\.45\\.197\\.2(4[0-9]|5[0-4]):/"
+  },
+  {
+    "reason": "cannot-match-hostname",
+    "rule": "/^142\\.91\\.159\\.(1[5-9]\\d|2[0-4]\\d|250):(80|443)$/"
+  },
+  {
+    "reason": "cannot-match-hostname",
+    "rule": "/^88\\.208\\.22\\.[1234]:/"
+  },
+  {
+    "reason": "cannot-match-hostname",
+    "rule": "/^94\\.242\\.247\\.(2[0-9]|3[0-2]):/"
+  },
+  {
+    "reason": "cannot-match-hostname",
+    "rule": "/^https:\\/\\/(a|c)\\.[0-9a-f]{56}\\.com$/"
+  },
+  {
+    "reason": "cannot-match-hostname",
+    "rule": "/^https:\\/\\/anon1.gt\\d{6}.com/"
+  },
+  {
+    "reason": "cannot-match-hostname",
+    "rule": "@@/\\.(gif|jpe?g|png|webp)#(\\/?.+)?(\\/(ad)s?\\/|\\/ad-)/"
+  },
+  {
+    "reason": "exception-conservative-suffix-envelope",
+    "rule": "@@-ds.metric.gstatic.com^|"
+  },
+  {
+    "reason": "exception-conservative-suffix-envelope",
+    "rule": "@@||api-v*.trbo.com^|"
+  },
+  {
+    "reason": "exception-conservative-suffix-envelope",
+    "rule": "@@||bcicl.*.evergage.com^|"
+  },
+  {
+    "reason": "exception-conservative-suffix-envelope",
+    "rule": "@@||brm-core-*.brsrvr.com^|"
+  },
+  {
+    "reason": "exception-conservative-suffix-envelope",
+    "rule": "@@||cdn.us*.exponea.com^|"
+  },
+  {
+    "reason": "exception-conservative-suffix-envelope",
+    "rule": "@@||click.virt.s*.exacttarget.com^|"
+  },
+  {
+    "reason": "exception-conservative-suffix-envelope",
+    "rule": "@@||clk*.tradedoubler.com^|"
+  },
+  {
+    "reason": "exception-conservative-suffix-envelope",
+    "rule": "@@||data-*.herz-fuer-tiere.de^|"
+  },
+  {
+    "reason": "exception-conservative-suffix-envelope",
+    "rule": "@@||email.*.skyeng.ru^|"
+  },
+  {
+    "reason": "exception-conservative-suffix-envelope",
+    "rule": "@@||mc.*.exacttarget.com^|"
+  },
+  {
+    "reason": "exception-conservative-suffix-envelope",
+    "rule": "@@||static-v*.trbo.com^|"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:2o7.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:a8.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:ads.nicovideo.jp"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:ads.tvb.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:adsterra.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:advertising.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:adwolf.ru"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:afi-b.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:analytics.edgekey.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:aniview.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:app.adjust.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:app.appsflyer.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:appcast.io"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:appmetrica.yandex.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:appodeal.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:awin1.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:belgium.wolterskluwer.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:bizrate.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:bluecore.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:brsrvr.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:commander1.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:conde.digital"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:cptrack.de"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:crazyegg.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:crwdcntrl.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:dable.io"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:daraz.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:data-e0448d0e4a.herz-fuer-tiere.de"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:data.digital.costco.ca"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:data.digital.costco.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:data.notify.macys.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:data.orders.costco.ca"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:data.orders.costco.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:data.promo.timhortons.ca"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:demdex.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:dotomi.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:doubleclick.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:ebis.ne.jp"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:ec-optimizer.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:evergage.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:ezodn.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:first-id.fr"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:gemius.pl"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:googleadservices.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:hb.afl.rakuten.co.jp"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:hit.interia.pl"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:i2i.jp"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:in.treasuredata.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:jdoqocy.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:lhinsights.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:link-ag.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:logentries.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:marketing.net.idealo-partner.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:metaffiliation.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:mmstat.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:nakanohito.jp"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:nitropay.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:om-ssl.consorsbank.de"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:omniture.walmart.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:omsc.kpn.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:openx.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:ownpage.fr"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:peerius.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:perfdrive.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:proto2ad.durasite.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:r.sax.sina.com.cn"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:rutarget.ru"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:sc2metrics.exacttarget.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:scarabresearch.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:scmetrics.exacttarget.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:sedge.nfl.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:silverpop.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:swasc.homedepot.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:taboola.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:targetspot.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:tealiumiq.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:tms.capitalone.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:tr.line.me"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:tradedoubler.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:trbo.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:valuecommerce.ne.jp"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:webgains.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:www.datadoghq-browser-agent.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:www.statcounter.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.).*\\-datareceiver\\.aki\\-game\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.).*\\-default\\-cn\\.rum\\.aliyuncs\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.).*\\-sdk\\.rum\\.aliyuncs\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.).*\\.exaapi\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.).*\\.libaishuo\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.).*adapt\\-beacon\\.awsprodops\\.movetv\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.).*cdn\\-settings\\.appsflyersdk\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.).*conversions\\.appsflyersdk\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.).*launches\\.appsflyersdk\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.).*register\\.appsflyersdk\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.).*two\\-gun\\-volley\\.pages\\.dev$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)1024wanzhai\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)a.*\\.chajiaotong\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)a.*\\.smlog\\.co\\.kr$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)aan\\.amazon\\..*$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ac.*\\.786ip\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ac.*\\.faxingchina\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)acr\\-.*\\-prd\\.samsungcloud\\.tv$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ad.*\\.bilgin\\.pro$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ad.*\\.ettoday\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ad.*\\.gyaloglo\\.hu$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ad.*\\.mellesleg\\.hu$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ad.*\\.nexage\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ad.*\\.on\\.cc$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ad.*\\.thisisgame\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ad.*\\.tmgrup\\.com\\.tr$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ad.*\\.wisenut\\.co\\.kr$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ad.*\\.zonaplus\\.tv$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ad\\-.*\\.amazonaws\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ad\\-.*\\.appacc\\.dbankedge\\.cn$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ad\\-host\\-backup\\-.*\\.aliyuncs\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ad\\..*\\.doubleclick\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)adapi.*\\.boomplaymusic\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)adcounter.*\\.uptolike\\.ru$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)adcs\\-.*\\.myappsget\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)adi.*\\.cnool\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)adimg.*\\.search\\.naver\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)admicro.*\\.vcmedia\\.vn$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)admob\\-app\\-id\\-.*\\.firebaseio\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)admulti\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ads.*\\-normal.*\\.zijieapi\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ads.*\\-normal\\-.*\\.zijieapi\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ads.*\\-normal\\-lq\\.zijieapi\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ads.*\\.bojijulebu\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ads.*\\.production\\-public\\.tubi\\.io$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ads.*\\.textra\\.me$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ads\\-.*\\-nfl\\.yinzcam\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ads\\-.*\\.v\\.ssp\\.yahoo\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ads\\-dmp\\-collect\\..*\\.karrotmarket\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ads\\.livetv.*\\.me$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)adserver.*\\.euroweeklynews\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)adserver1\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)adserver\\..*\\.yahoodns\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)adservice\\.google\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)adservice\\.google\\.co\\..*"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)adv0.*\\.msa\\.cdn\\.mediaset\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)advert.*\\.livesportmedia\\.eu$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)advert.*\\.ultraweb\\.hu$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)adverticum\\..*\\.hu$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)advertising\\.civitai\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)adx\\-.*\\.dbankcloud\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)adx\\-.*\\.dbankedge\\.cn$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)adx\\-.*\\.op\\.dbankcloud\\.com\\.edgekey\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)afdads\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)aff.*\\.kolektiva\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)agatha\\-log\\-service\\-.*\\.a\\.run\\.app$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ali\\-bj\\-pcdn\\-.*\\.biliapi\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)alishop.*\\.ru$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)allmt\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)allsportsflix\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)almosto\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)an\\.yandex\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ana.*\\.inews24\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)analysis\\.polarisoffice\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)analytics.*\\.carambo\\.la$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)analytics.*\\.clickdimensions\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)analytics.*\\.prezly\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)analytics\\-.*\\-nfl\\.yinzcam\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)analytics\\-api\\.dvdfab\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)analytics\\-rollout\\-.*\\.amazonaws\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)analytics\\-v.*\\.eip\\.telegraph\\.co\\.uk$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)analytics\\..*\\.sky\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)analytics\\.ahrefs\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)analytics\\.streamfab\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)analytics\\.vgtimes\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)analyzer.*\\.fc2\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)anonymous\\.qub\\.ca"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)api.*\\.amplitude\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)api.*\\.batmobi\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)api.*\\.batmobil\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)api.*\\.bidmachine\\.io$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)api.*\\.moengage\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)api16\\-access\\-ttp.*\\.tiktokpangle\\-b\\.us$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)api\\-.*\\.hismarttv\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)api\\-ad\\-callback\\.mobiuspace\\.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)api\\.cloudmobi\\.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)apiproxy\\-log\\-nlb\\-1f304af4d3ac01a4\\.elb\\.us\\-east\\-.*\\.amazonaws\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)app\\-analytics\\-.*\\.snapchat\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)appanalysis.*\\.banggood\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)apple\\-.*\\.le\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)applog.*\\.matrix\\.easebar\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)as.*\\.prog\\.hu$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)at.*\\.doubanio\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ats\\.gmarket\\.co\\.kr"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)attr\\-logs\\..*\\.amazonaws\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)auth\\-.*\\.hismarttv\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ax\\..*\\.ifeng\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)backstory\\.ebay\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)banner.*\\.kinogo\\.by$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)banner\\-in\\.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)banner\\..*\\.tccapis\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)banner\\.kiev\\.ua"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)bapi\\-.*\\.moengage\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)bar.*\\.shinobi\\.jp$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)basvformu.*\\.xyz$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)batchlogging.*\\-eu\\.truecaller\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)batchlogging.*\\-noneu\\.truecaller\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)bc\\.geocities\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)bdcpro.*\\.techweb\\.com\\.cn$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)bdlm.*\\.hc360\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)beacons.*\\.gvt3\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)beehiiv\\-adnetwork\\-production\\.s.*\\.amazonaws\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)bi\\-eventtracker\\-.*\\.amazonaws\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)block\\.s.*block\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)bondzgi.*\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)broredir.*s\\.site$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)browser\\-intake\\-.*\\-datadoghq\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)button\\.blogs\\.yandex\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)buzzer\\.xhamster.*"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)c.*hit\\.zerkalo\\.io$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)c\\.bigmir\\.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)cdn.*\\.swaxis\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)cdn\\-.*\\.gravityfield\\.ai$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)cdn\\-adn\\-.*\\.rayjump\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ce\\-global\\-track\\-.*\\.amazonaws\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)cl.*\\.k5a\\.io$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)clickhouse\\-collector\\..*\\.prod\\.plat\\.agency$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)clickstream\\-.*\\.homedepot\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)clickvip\\.ru"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)client\\.rum\\..*\\.amazonaws\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)clk\\.rtpdn.*\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)clog.*\\.yuanfudao\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)cnt\\.hd21\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)cnt\\.nuvid\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)cnt\\.proporn\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)cnt\\.tubeon\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)cnt\\.vivatube\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)cnt\\.winporn\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)cnt\\.yeptube\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)collect\\-elb\\-.*\\.amazonaws\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)collect\\-v.*\\.51\\.la$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)collector.*\\.ex\\.co$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)collector\\-.*\\.luigisbox\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)collector\\-.*\\.perimeterx\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)collector\\-.*\\.px\\-cdn\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)collector\\-.*\\.px\\-client\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)collector\\-.*\\.pxchk\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)collector\\-.*\\.tvsquared\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)collector\\.hamsterix\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)collector\\.xhamster.*\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)config\\.appjolt\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)counter.*\\-yadro.*\\-ru\\.unblocked\\.lol$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)counter.*\\.freecounter\\.ovh$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)counter.*\\.stat\\.ovh$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)countly\\-"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)countly\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)creative.*\\.bidease\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)cs.*\\.mp3bars\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)customerevents\\.us\\-east\\-.*\\.internal\\.dradis\\.netflix\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)cza.*\\.crazygames\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)d.*\\.ruiwen\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)d.*\\.xinshipu\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)d241ujsiy3yht0\\.cloudfront\\.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)d2fj3s7h83rb61\\.cloudfront\\.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)daleelerah\\.info"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)data\\-track.*\\.yingxiong\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)datacollect.*\\.abtasty\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)datacollector\\-.*\\.dt\\.dbankcloud\\.cn$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)datacollector\\-.*\\.dt\\.hicloud\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)datadog\\-log\\.clovergames\\.io"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)deliveryengine\\.adswizz\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)deloton\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)device\\-metrics\\-.*\\.amazon\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)device\\-metrics\\-us.*\\.amazon\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)direct\\-specific\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)discovery\\-ios\\-.*\\.ertelecom\\.ru$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)dl\\.qcash\\.ws"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)dm.*\\.yxlady\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)dn.*\\.ixinwei\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)dualstack\\.adbert\\-web\\-lbs\\-.*\\.elb\\.amazonaws\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)dw\\-informer\\-.*\\.newsru\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)e\\.missav\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)eberalofe\\.pro"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)eclog.*\\-.*\\.cafe24\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ecommerce\\-events.*\\.adscale\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)edgetrksvc\\.ebay\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)eflbundles\\..*\\.com\\.tr$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)et\\-code\\.ru"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)etargetnet\\..*\\.hu$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)eum.*\\.instana\\.io$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)event\\..*\\.karrotmarket\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)event\\..*\\.shoplive\\.cloud$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)events.*\\.cre\\.ma$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)events\\-.*\\.op\\.hicloud\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)events\\-api.*\\.outfit7\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)events\\-proxy\\.mintlify\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)f\\-log\\-.*\\.grammarly\\.io$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)fanpingbi.*\\.gaokao\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)faro\\-collector\\-prod\\-.*\\.grafana\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)faro\\.civitai\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)fjuga\\.top"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)flipflapflo\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)flurry\\.agentportal\\-.*\\.yahoodns\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)flurry\\.agentportal\\..*\\.yahoodns\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)fp\\-.*it.*\\.fengkongcloud\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)fpb.*\\.51edu\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)fpb1\\.chinacar\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)freecontent\\.date"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)freecontent\\.stream"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)fxhpaoxqyajvmdg\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)gbs\\.gamingmedia\\.ru"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)gbxreport\\-.*\\.wf\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)gcw.*\\.2liang\\.cn$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)geoloc.*\\.9cd47096ab1495d8d3b18667f6a52b9c\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)geoloc.*\\.geo20120530\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)geoloc.*\\.geostats\\.ovh$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)geoloc.*\\.geovisite\\.ovh$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)get.*bannerads\\-6egeg2u34q\\-du\\.a\\.run\\.app$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)get\\-me\\-wow\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)global\\-staticplat\\.cdn\\.bcebos\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)globalteaser\\.ru"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)gonews.*\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)goodadvert\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)gscounters\\..*\\.gigya\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)gtmdev\\.jabra\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)h3v9p8x2q1r7\\-agckaeh6g2ehcaes\\..*\\.azurewebsites\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)hba.*\\.hepsiburada\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)hitcounter\\.ru"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)hn\\-ping.*\\.hashnode\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)host.*\\.carl\\-ras\\.dk$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)host.*\\.ncoi\\.nl$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)host.*\\.nti\\.nl$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)host.*\\.polaroid\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)host.*\\.rigbyandpeller\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)host.*\\.rvshare\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)hostingcloud\\..*\\.wasm$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)hstats.*\\.hepsiburada\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)htm.*\\.hepsiburada\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)hw\\-sh\\-pcdn\\-.*\\.biliapi\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)i\\-.*\\.ci360\\.sas\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)iad\\-.*\\.appboy\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)iad\\-.*\\.braze\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)icq\\-window\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)icqwindow\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)id\\-msp\\.newsbreak\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)img\\.opentracker\\.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)imgg\\.dt00\\.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)imp\\-.*\\.jampp\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)impservice.*\\.yodao\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)impservice.*\\.youdao\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)install.*\\.zonastat\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)iphone\\-caviar\\.ru.*entranceid"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)iptracker\\-lb\\-.*\\.amazonaws\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ir\\-new\\-cdn\\-eu\\-west\\-.*\\-hb\\.rayjump\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)itv\\.hexun\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ja.*\\.apppure\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ja.*\\.gamersky\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)js.*\\.abolezi\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)js\\.goods\\.redtram\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)jtbo.*\\.nqxvevk\\.cn$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)kbox\\-analytics\\-prod\\.s.*\\.amazonaws\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)letssex\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)linkexchange\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)lively\\-collect\\-elb\\-.*\\.amazonaws\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)liveme\\-sensors\\-collect2\\-.*\\.amazonaws\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)livetracker\\..*\\.pangea\\-cms\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)log.*\\-misc\\-lf\\.amemv\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)log.*\\-normal\\-.*\\.tiktokv\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)log.*\\-normal\\-.*\\.tiktokv\\.us$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)log.*\\-normal\\-useast1a\\.lemon8\\-app\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)log.*\\.aliyuncs\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)log.*\\.boomplaymusic\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)log.*\\.byteoversea\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)log.*\\.vietnamplus\\.vn$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)log.*\\.zijieapi\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)log\\-.*\\.epicdn\\.me$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)log\\-.*\\.isnssdk\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)log\\-.*\\.previewnetworks\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)log\\-.*\\.zadn\\.vn$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)log\\-collector\\.shopee\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)log\\-v.*\\-boot\\.capcutapi\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)log\\-va.*\\.capcutapi\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)log\\.api\\-maps\\.yandex\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)logger\\-.*\\.dailymotion\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)logreport\\-global\\-dual\\.cool.*cloud\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)logs.*\\.smithsonian\\.museum$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)logs\\-.*\\.rebxgame\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)logs\\.collector\\..*\\.cloud\\.solarwinds\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)logs\\.juspay\\.in"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)logservice\\-.*\\.platform\\.dbankcloud\\.cn$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)logservice\\.dbankcloud\\.cn"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)logstash\\-.*\\.radio\\-canada\\.ca$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)logws.*\\.ati\\-host\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)loneday\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)lt.*\\.tritondigital\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)maas\\-.*\\.phunware\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mapi\\-log\\.qoo.*\\.jp$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)marketplace\\-.*\\.hyprmx\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)matomo\\-demo\\-.*\\.amazonaws\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)matomo\\..*\\.vn$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mautic\\..*\\.vn$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mcdp\\-.*\\.outbrain\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mcs\\-.*\\.lemon8\\-app\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mcs\\-.*\\.lemon8\\-app\\.us$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mcs\\-.*\\.tiktok\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mcs\\-normal\\-.*\\.capcutapi\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mcs\\-va\\-.*\\.tiktokv\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mcs\\..*\\.tiktok\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mcs\\..*\\.tiktokv\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)me9ddf\\.moebelix\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mediacontext\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)medialand\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mediate\\-ios\\-.*\\.hyprmx\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)metric.*\\.rediff\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)metrics.*\\.fitanalytics\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mf.*\\.advantage\\.as$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)minitds\\-.*\\.info$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mjavagames\\.ru"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mob.*\\.novanewsapp\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mobiadvert.*\\.livesportmedia\\.eu$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mobileanalytics\\..*\\.amazonaws\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mon.*\\-.*\\.tiktokv\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mon.*\\-.*\\.tiktokv\\.us$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mon.*\\-misc\\-lf\\.fqnovel\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mon.*\\-misc\\.fqnovel\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mon.*\\.tiktokv\\.us$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mon\\-.*\\.lemon8\\-app\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mon\\-.*\\.lemon8\\-app\\.us$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mon\\-.*\\.tiktokv\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mon\\-v.*\\-boot\\.capcutapi\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mon\\-va.*\\.capcutapi\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)moneymaiker\\.ru"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)moneysyst\\.biz"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mptri\\.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ms.*\\.applvn\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mssdk.*\\.capcutapi\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mssdk.*\\.zijieapi\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mssdk\\.capcutapi\\.us"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mtag\\-.*\\.wedevs\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)mtm\\.qdqmedia\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)nelonenmedia\\-pmd\\-ads\\-.*\\.nm\\-stream\\.nelonenmedia\\.fi$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)obislame\\.ru"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)oclasrv\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)orbit.*\\.lun\\.ua$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)orderana.*\\.spankbang\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)pangolin.*\\.sgsnssdk\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)parkdomainreal.*\\.site$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)partner\\.superbahisaffiliates.*\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)pavoshare\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)pijama\\..*\\.elasticbeanstalk\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ping.*\\.bidease\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)piwik\\..*\\.vn$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)pixel.*\\.adswizz\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)pixel.*\\.production\\-public\\.tubi\\.io$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)pixel\\-.*\\.convertagain\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)pixel\\-.*\\.rubiconproject\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)pixel\\.archive\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)pixelapi\\-.*\\.cs\\.mysamba\\.tv$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)platinumcode\\.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)polaris.*\\-normal\\-.*\\.zijieapi\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)pop\\-parad\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)pop\\-under\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)poptraf\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)popunder\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)popupclick\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)popuptraf\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)poshalim\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)powa\\-ingest\\-prod\\-.*\\.video\\-player\\.arcpublishing\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)prebid\\-.*\\.rubiconproject\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)prebid\\-cache.*\\.ifunny\\.co$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)production\\-adserver\\-.*\\.amazonaws\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)promoblocks\\.ru"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)psma01\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)psma02\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)psma03\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)putrr.*\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)px.*\\.mediahills\\.ru$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)pxl\\-.*\\.ozone\\.ru$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)q.*\\-publick\\.club$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)qpb.*\\.sohu\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)quangcao\\-.*\\.epicdn\\.me$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)query.*\\.petametrics\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)rb.*\\.design\\.ru$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)reachableads\\-av\\..*\\.amazonaws\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)real.*traf\\.ru$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)rebill\\.me"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)rehs\\..*\\.hu$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)report.*\\.appmetrica\\.webvisor\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)report\\..*\\.gbqofs\\.io$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)report\\..*\\.qq\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)res.*\\.pinpai8\\.cn$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)rgfftupf\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)rotaban\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)rotabanner\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)rotator\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)rtb\\-.*\\.anysex\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)rtbimp\\-loadbalancer\\-.*\\.amazonaws\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)rtlog.*\\.tiktokv\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)rtlog.*\\.tiktokv\\.us$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)rum.*\\.a\\.trbcdn\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)rum.*\\.cdnvideo\\.ru$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ruscams\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)rusrestbest\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)s.*\\.adduplex\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)s.*\\.skencituer\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)sam.*\\.baby\\-kingdom\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)same.*\\.stockstar\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)sax.*\\.sina\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)script\\.opentracker\\.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)sdk\\-.*\\.moengage\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)sdk\\.fra\\-.*\\.braze\\.eu$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)seller\\-log\\-collector\\.shopee\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)sensorsdata.*\\.read\\.duokan\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)servo\\-report\\.dvdfab\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)servo\\-report\\.keepstreams\\..*$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)sgtm\\.fairmont\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)sgtm\\.fashionunited\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)sgtm\\.wimdu\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)sher\\..*\\.hu$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)smart\\.allocine\\.fr"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)sn00\\.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)snowplow\\-collector\\-.*\\.amazonaws\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)snowplow\\-collector\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)sock.*\\-goguardian\\.pusher\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)sonar.*\\.xy\\.fbcdn\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)spa\\-tracker.*\\.spapi\\.io$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)srmdata\\-.*\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ssp.*\\.rtb\\.beeline\\.ru$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)st\\-.*\\.dynamicyield\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)st\\-n\\.ads.*\\-adnow\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)staging\\-.*\\.ispot\\.tv$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)stat.*\\.1internet\\.tv$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)stat\\.tiara\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)static.*\\.365inews\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)stats.*\\.videonow\\.ru$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)stats2\\..*\\.fdnames\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)stats\\-.*\\.p2pnow\\.ru$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)stats\\..*\\.ronghub\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)stats\\..*\\.rongnav\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)stats\\.debatdirect\\.tweedekamer\\.nl"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)stats\\.dulo\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)stats\\.mapple\\..*$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)stats\\.zone\\-telechargement\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)stlog.*\\-local\\.kakao\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)stw\\.zone\\-telechargement\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)subnewss.*\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)suite.*\\.linximpulse\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)superpcexpert\\.ru"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)t.*\\.playdigo\\.live$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)t.*\\.zcvh\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)t\\.delfi\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)tag\\-based\\.s3\\..*\\.amazonaws\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)tag\\-v.*\\.kuzen\\.io$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)talkfusion\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)talpa\\-analytics\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)taplytics\\-umami\\.grubhub\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)tccd\\.douglas\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)telemetry.*\\.transcend\\.io$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)telemetry\\..*\\.pvp\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)teleriumads\\-.*\\.netdna\\-ssl\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)thegreatesthits\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)timedirect\\.ru"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)tiz\\.neosmi\\.ru"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)tms\\-st\\.cdn\\.ngenix\\.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)tmserver\\-2\\.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)tnc.*\\.tiktokv\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)tnc.*\\.tiktokv\\.us$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)tnc.*\\.zijieapi\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)tnc16\\-.*\\.byteoversea\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)tnc16\\-.*\\.hypic\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)tnc\\-va.*\\.capcutapi\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)touch\\.yesim\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)trace\\-.*\\.free\\-reels\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)trace\\-.*\\.hungrypanda\\.co$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)track\\-.*\\.hungrypanda\\.co$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)track\\..*\\.roku\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)track\\.datescan\\.info"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)track\\.tiara\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)track\\.zalando\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)tracker\\.twenga\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)tracking.*\\.euroads\\.fi$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)tracking\\-.*\\.trnox\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)tracking\\-v.*\\.a\\.run\\.app$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)tracking\\..*\\.miui\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)tracking\\.olx\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)trck\\..*\\.prod\\-na\\.turntable\\.sonic\\.advertising\\.amazon\\.dev$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)trk.*\\.vidible\\.tv$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)tw\\-726620180914\\..*\\.run\\.app$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)u.*\\.takru\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ubacollect\\-.*\\.cloud\\.dbankcloud\\.cn$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ubt\\.tracking\\.shopee\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)uc.*\\.atobo\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ulog.*\\.gifshow\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ulog.*\\.kwai\\-pro\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ulog.*\\.kwaipros\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ulog\\-.*\\.ksapisrv\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ulog\\..*\\.ksapisrv\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ulog\\..*\\.kwai\\-pro\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)under\\-click\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)underclick\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)union.*\\.365inews\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)use\\-trk.*\\.bluevoox\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)util\\-.*\\.simply\\-hentai\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)uts\\.auction\\.co\\.kr"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)v.*\\-ad\\.video\\.yximgs\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)v.*\\.sitecounter\\.site$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)v\\.newsportal.*\\.ru$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)v\\.tzbox.*\\.xyz$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)valentine\\.xhamster\\..*$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)videoclick\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)videoclik\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)vst\\.videolink\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)w.*statistics\\.info$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)wa\\.gmx\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)web\\-rotation\\.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)web\\-visor\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)weblogger\\-wss\\.cool.*cloud\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)wslog\\-global\\-dual\\.cool.*cloud\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)www\\.fuze\\-hill.*\\.xyz$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)www\\.fuze\\-sea.*\\.xyz$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)xlog.*\\-.*\\.tiktokv\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ya.*\\.dwstatic\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)yottos\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)ysdm.*\\.ys137\\.com\\.cn$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)yxhstwzjbu\\.info"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)zbb\\.bbb\\..*\\.pics$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)zhizhizhizhi\\.oss\\-.*\\.aliyuncs\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)zorosrv\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:.*ad\\.durasite\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:62.76.25.2(7|8)"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-adrevenue\\.appsflyersdk\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-adx\\-.*\\.rayjump\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-applog.*\\.fqnovel\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-attr\\.appsflyersdk\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-client\\-report\\.honkaiimpact3\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-datareceiver\\.aki\\-game\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-events\\-collector\\.spot\\.im$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-logging\\.nextmedia\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-logsdk\\.kwai\\-pro\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-pia\\.appsflyersdk\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-rtb\\.gravite\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-s2s\\.sensic\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-skadsdkless\\.appsflyersdk\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-spiky\\.clevertap\\-prod\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-telemetry\\.officeapps\\.live\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-telemetry\\.officeapps\\.live\\.com\\.mcas\\.ms$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-tracker\\.biliapi\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-ulog\\-.*\\.kwai\\-pro\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-ulog\\-.*\\.kwaipros\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-ulog\\..*\\.kwai\\-pro\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-ulog\\..*\\.kwaipros\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-ulog\\.ksapisrv\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-ulog\\.kwai\\-pro\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-ulog\\.kwaipros\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-ulog\\.region\\.kwai\\-pro\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-ulogl.*\\.kwai\\-pro\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-ulogl2\\.kwai\\-pro\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-ulogl2\\.kwaipros\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\-upaas\\.ucweb\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.1080\\.x\\.90\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.1\\.1\\.1\\.l80\\.js$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.3\\.n\\.2\\.1\\.l50\\.js"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.3\\.n\\.2\\.2\\.l30\\.js"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.adonweb\\.ru$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.allalla\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.ay\\.delivery$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.bbelements\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.cpa1\\.ru$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.doublepimp\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.ecommtools\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.gameleads\\.ru$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.infox\\.sg$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.is\\.traff\\-numerical\\.info$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.n\\.2\\.1\\.js$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.n\\.2\\.1\\.l60\\.js$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.piccash\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.potopy\\.ru$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.prod\\.pr\\.analytics\\.console\\.aws\\.a2z\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.sexplaycam\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.skadsdkless\\.appsflyersdk\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.stape\\.net"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.tovarro\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.tpm\\.pw$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.tvp\\.tv$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.vipko\\.ru$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.webhop\\.net$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:^(a|c)\\.[0-9a-f]{56}\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:^(mon|tue|wed|thu|fri|sat|sun)\\d{1,2}\\.\\w{2}\\d{1,6}\\w{4}\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:^139\\.45\\.197\\.2(4[0-9]|5[0-4])"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:^139\\.45\\.19[5-7]\\.\\d{1,3}"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:^188\\.42\\.84\\.\\d{1,3}"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:^2.59.219.121"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:^23\\.109\\.170\\.(18[7-9]|19[0-2])$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:^23\\.109\\.73\\.\\d{3}"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:^88\\.208\\.22\\.[1234]$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:^94\\.242\\.247\\.(2[0-9]|3[0-2])"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:^anon1.gt\\d{6}.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:^c\\.blue\\..*\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:^load\\.gtm\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:^load\\.sgtm\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:^load\\.ss\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:^load\\.sst\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:^piwik\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:analytics\\-.*\\.aasaam\\.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:charlestownwyllie\\.oaklawnnonantum\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:dlsdk\\.appsflyer\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:dlsdk\\.appsflyersdk\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:dynamic\\-report\\-api\\.appsflyersdk\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:gcdsdk\\.appsflyersdk\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:prd\\.api\\.bleacherreport\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:vkcdnservice\\.appspot\\.com$"
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-1080x140-"
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-1080x140."
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-1080x180-"
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-1300-x-200-"
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-720x90-"
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-728-x-90-"
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-728-x-90."
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-728x90a."
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-970x90-"
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-ad123-"
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-ads1."
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-ads2."
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-bandarkiu."
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-banner-ads."
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-banner728x90."
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-cina777."
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-iklan-gif-"
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-iklan1."
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-iklan2."
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-iklan789-"
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-ikln."
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-indo666."
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-pentaslot."
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "-tototix.gif"
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "://*.a-akamaihd.com^"
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "://jhf.ru^"
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "://kma.biz^"
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "://mine.torrent.pw^"
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "://o0e.ru^"
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "://r.i.ua^"
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "://r.reklam*.com^"
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "://say.ac^"
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "://sportframe*.co^"
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "://sportframe*.org^"
+  },
+  {
+    "reason": "non-hostname-or-unsupported-pattern",
+    "rule": "://tru.am^"
+  }
+]

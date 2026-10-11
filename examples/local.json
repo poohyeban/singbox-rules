@@ -1,0 +1,108 @@
+{
+  "log": {
+    "level": "warn"
+  },
+  "outbounds": [
+    {
+      "type": "direct",
+      "tag": "direct"
+    }
+  ],
+  "route": {
+    "rule_set": [
+      {
+        "type": "local",
+        "tag": "pooban-adguard",
+        "format": "binary",
+        "path": "rule-set/pooban-adguard.srs"
+      },
+      {
+        "type": "local",
+        "tag": "pooban-openai",
+        "format": "binary",
+        "path": "rule-set/pooban-openai.srs"
+      },
+      {
+        "type": "local",
+        "tag": "pooban-whatsapp",
+        "format": "binary",
+        "path": "rule-set/pooban-whatsapp.srs"
+      },
+      {
+        "type": "local",
+        "tag": "pooban-instagram",
+        "format": "binary",
+        "path": "rule-set/pooban-instagram.srs"
+      },
+      {
+        "type": "local",
+        "tag": "pooban-facebook",
+        "format": "binary",
+        "path": "rule-set/pooban-facebook.srs"
+      },
+      {
+        "type": "local",
+        "tag": "pooban-google",
+        "format": "binary",
+        "path": "rule-set/pooban-google.srs"
+      },
+      {
+        "type": "local",
+        "tag": "pooban-china",
+        "format": "binary",
+        "path": "rule-set/pooban-china.srs"
+      }
+    ],
+    "rules": [
+      {
+        "rule_set": [
+          "pooban-adguard"
+        ],
+        "action": "reject"
+      },
+      {
+        "rule_set": [
+          "pooban-openai"
+        ],
+        "action": "route",
+        "outbound": "direct"
+      },
+      {
+        "rule_set": [
+          "pooban-whatsapp"
+        ],
+        "action": "route",
+        "outbound": "direct"
+      },
+      {
+        "rule_set": [
+          "pooban-instagram"
+        ],
+        "action": "route",
+        "outbound": "direct"
+      },
+      {
+        "rule_set": [
+          "pooban-facebook"
+        ],
+        "action": "route",
+        "outbound": "direct"
+      },
+      {
+        "rule_set": [
+          "pooban-google"
+        ],
+        "action": "route",
+        "outbound": "direct"
+      },
+      {
+        "rule_set": [
+          "pooban-china"
+        ],
+        "action": "route",
+        "outbound": "direct"
+      }
+    ],
+    "final": "direct"
+  }
+}

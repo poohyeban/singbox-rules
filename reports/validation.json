@@ -1,0 +1,34 @@
+{
+  "additional_conversion_omissions": 0,
+  "all_resolved_sources_equal": true,
+  "all_rules_inventory_equal": true,
+  "all_srs_official_compiler_equal": true,
+  "checks": [
+    "full reference regression suite",
+    "exact/suffix/keyword/regexp boundaries",
+    "subdomain-only wildcard apex exclusion",
+    "IPv4/IPv6 CIDR edge membership",
+    "Google-before-China precedence",
+    "independent seven-category routing",
+    "every source regexp isolated from overlapping suffixes",
+    "official engine JSON/SRS loading, compilation and complete binary reproduction"
+  ],
+  "engines": [
+    {
+      "all_json_compiled": true,
+      "isolated_routing_checks": 580,
+      "json_and_published_srs_loaded": true,
+      "version": "1.13.0"
+    },
+    {
+      "all_json_compiled": true,
+      "isolated_routing_checks": 580,
+      "json_and_published_srs_loaded": true,
+      "version": "1.14.3"
+    }
+  ],
+  "source_regexps_with_isolated_native_witnesses": 12,
+  "status": "passed",
+  "xray_isolated_routing_checks": 290,
+  "xray_version": "26.9.9"
+}

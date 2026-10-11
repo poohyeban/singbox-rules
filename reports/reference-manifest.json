@@ -1,0 +1,234 @@
+{
+  "adguard": {
+    "badfilter": 5,
+    "blocks_before_exceptions": 181774,
+    "disabled": 1,
+    "exception_envelopes": 11,
+    "exceptions": 208,
+    "important_conservatively_lowered": 5,
+    "input": 182038,
+    "omitted": 762,
+    "output": 181069
+  },
+  "artifacts": {
+    "geoip.dat": "35f75064fbc2acde63a2f5279e9bd4641900511b1a6bcac50bcd9c54c9249fe6",
+    "geosite.dat": "34e4627f609e27d88228e4e7197364e339e47fc7c498ccc0d44d0da4173a39eb"
+  },
+  "asn_records": {
+    "401518": 1,
+    "401864": 0
+  },
+  "counts": {
+    "pooban-adguard": {
+      "domains": 181069,
+      "ipv4": 0,
+      "ipv6": 0,
+      "regexps": 0
+    },
+    "pooban-china": {
+      "domains": 6624,
+      "ipv4": 8204,
+      "ipv6": 11467,
+      "regexps": 3
+    },
+    "pooban-facebook": {
+      "domains": 397,
+      "ipv4": 0,
+      "ipv6": 0,
+      "regexps": 0
+    },
+    "pooban-google": {
+      "domains": 1122,
+      "ipv4": 0,
+      "ipv6": 0,
+      "regexps": 2
+    },
+    "pooban-instagram": {
+      "domains": 73,
+      "ipv4": 0,
+      "ipv6": 0,
+      "regexps": 0
+    },
+    "pooban-openai": {
+      "domains": 36,
+      "ipv4": 24,
+      "ipv6": 0,
+      "regexps": 7
+    },
+    "pooban-whatsapp": {
+      "domains": 11,
+      "ipv4": 0,
+      "ipv6": 0,
+      "regexps": 0
+    }
+  },
+  "format": 1,
+  "google_categories": [
+    "android",
+    "blogspot",
+    "dart",
+    "fastlane",
+    "firebase",
+    "flutter",
+    "golang",
+    "google",
+    "google-deepmind",
+    "google-play",
+    "google-registry",
+    "google-scholar",
+    "google-trust-services",
+    "googlefcm",
+    "kaggle",
+    "opensourceinsights",
+    "polymer",
+    "v8",
+    "youtube"
+  ],
+  "meta_categories": {
+    "Facebook": [
+      "facebook"
+    ],
+    "Instagram": [
+      "instagram"
+    ],
+    "WhatsApp": [
+      "whatsapp"
+    ]
+  },
+  "meta_sukka_selection": {
+    "input": 28,
+    "review_entries_absent_upstream": 0,
+    "selected": {
+      "Facebook": 11,
+      "Instagram": 3,
+      "WhatsApp": 1
+    },
+    "skipped": [
+      {
+        "line": 187,
+        "reason": "legacy FriendFeed shortener, not selected for Facebook",
+        "source_rule": "DOMAIN-SUFFIX,ff.im"
+      },
+      {
+        "line": 192,
+        "reason": "Messenger is a separate upstream service category",
+        "source_rule": "DOMAIN-SUFFIX,m.me"
+      },
+      {
+        "line": 193,
+        "reason": "Messenger is a separate upstream service category",
+        "source_rule": "DOMAIN-SUFFIX,messenger.com"
+      },
+      {
+        "line": 194,
+        "reason": "Messenger is a separate upstream service category",
+        "source_rule": "DOMAIN-SUFFIX,fbmessenger.com"
+      },
+      {
+        "line": 195,
+        "reason": "Oculus is a separate upstream service category",
+        "source_rule": "DOMAIN-SUFFIX,oculus.com"
+      },
+      {
+        "line": 196,
+        "reason": "Oculus is a separate upstream service category",
+        "source_rule": "DOMAIN-SUFFIX,oculuscdn.com"
+      },
+      {
+        "line": 200,
+        "reason": "Threads is a separate upstream service category",
+        "source_rule": "DOMAIN-SUFFIX,threads.net"
+      },
+      {
+        "line": 202,
+        "reason": "brand keyword also matches unrelated hostnames",
+        "source_rule": "DOMAIN-KEYWORD,facebook"
+      },
+      {
+        "line": 203,
+        "reason": "Meta umbrella site, outside the three service categories",
+        "source_rule": "DOMAIN-SUFFIX,meta.com"
+      },
+      {
+        "line": 205,
+        "reason": "outside the three service categories",
+        "source_rule": "DOMAIN-SUFFIX,mixer.com"
+      },
+      {
+        "line": 206,
+        "reason": "Threads is a separate upstream service category",
+        "source_rule": "DOMAIN-SUFFIX,threads.com"
+      },
+      {
+        "line": 207,
+        "reason": "Meta umbrella site, outside the three service categories",
+        "source_rule": "DOMAIN-SUFFIX,atmeta.com"
+      },
+      {
+        "line": 209,
+        "reason": "brand keyword also matches unrelated hostnames",
+        "source_rule": "DOMAIN-KEYWORD,whatsapp"
+      }
+    ]
+  },
+  "meta_supplement_added": {
+    "Facebook": [
+      [
+        "domain",
+        "accountkit.com"
+      ],
+      [
+        "domain",
+        "f8.com"
+      ]
+    ],
+    "Instagram": [
+      [
+        "domain",
+        "instagr.am"
+      ]
+    ],
+    "WhatsApp": []
+  },
+  "reviewed_inputs": {
+    "Meta/sukka-review.json": "36dbaced73c24886823f973acf52faeb7d2291ce90763810c4e1dc73de7b39be",
+    "official-domains-excluded.txt": "7cd36f96f4df2edbbc569f93706b31202e24ed1b0244348a249e906471ec6bbd",
+    "official-domains.txt": "d46ed3f8b878bb4b7da4287482c018eca1f15c796802e21e5f27a9431311ecec"
+  },
+  "sources": {
+    "adguard": {
+      "sha256": "e5d39ce34683436ef03956ec0e86e8de1305d156235e291eeadbb01fb69a5cab",
+      "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
+    },
+    "asn": {
+      "sha256": "c9dea128931a6ed769706775844c42e98838e0790dbd03b58c92e5aa4cefa57a",
+      "url": "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb"
+    },
+    "china-domain": {
+      "sha256": "16094882e0b0cef10c2dd366288d7a103128c69d91a7168e2abb5cbe486a22a0",
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/release/cn.txt"
+    },
+    "country": {
+      "sha256": "635078e412c4443a2950c2e3f775ccdc400e0a1fea5ffd32e5489e5401a9e51d",
+      "url": "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
+    },
+    "google-domain": {
+      "sha256": "9a89b3dc161e448a9354ca9fb937962045d947c3c2282ed4907c49b5a169d340",
+      "url": "https://codeload.github.com/v2fly/domain-list-community/zip/refs/heads/master"
+    },
+    "openai-domain": {
+      "sha256": "19a100966b3c5b0dff2e7038ba66366ef10d6384781b3eda6de4d1e79712dcc6",
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/openai"
+    },
+    "sukka-meta": {
+      "sha256": "43ab6e136b20f9f28cd54f0c565a6d81198053f62425c4a4beba9e2992b42471",
+      "url": "https://raw.githubusercontent.com/SukkaW/Surge/master/Source/non_ip/global.conf"
+    },
+    "voice": {
+      "sha256": "8f03f3c594165eeff009915c7e2beb4bdfb9d429fb1955c205e3b33ec781899a",
+      "url": "https://openai.com/chatgpt-voice.json"
+    }
+  },
+  "target": "PassWall2 / Xray",
+  "xray_test_version": "26.9.9"
+}

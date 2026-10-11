@@ -1,0 +1,19 @@
+# Exact entries excluded from the official-source contribution only.
+# Shared infrastructure should not capture unrelated applications' traffic.
+*.ct.sendgrid.net
+*.intercom.io
+*.intercomcdn.com
+cdn.workos.com
+challenges.cloudflare.com
+forwarder.workos.com
+humb.apple.com
+images.workoscdn.com
+js.intercomcdn.com
+js.stripe.com
+o207216.ingest.sentry.io
+o33249.ingest.sentry.io
+rum.browser-intake-datadoghq.com
+setup.workos.com
+workos.imgix.net
+# Dedicated-use/ownership status requires further manual review.
+cdn.openaimerge.com

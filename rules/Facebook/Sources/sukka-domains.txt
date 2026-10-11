@@ -1,0 +1,11 @@
+domain:accountkit.com
+domain:f8.com
+domain:facebook-hardware.com
+domain:facebook.com
+domain:fb.com
+domain:fb.me
+domain:fb.watch
+domain:fbcdn.net
+domain:fbsbx.com
+domain:internet.org
+domain:tfbnw.net

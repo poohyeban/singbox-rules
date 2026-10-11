@@ -1,0 +1,46 @@
+{
+  "counts": {
+    "pooban-adguard": {
+      "domains": 180945,
+      "ipv4": 0,
+      "ipv6": 0,
+      "regexps": 0
+    },
+    "pooban-china": {
+      "domains": 6624,
+      "ipv4": 8204,
+      "ipv6": 11467,
+      "regexps": 3
+    },
+    "pooban-facebook": {
+      "domains": 397,
+      "ipv4": 0,
+      "ipv6": 0,
+      "regexps": 0
+    },
+    "pooban-google": {
+      "domains": 1122,
+      "ipv4": 0,
+      "ipv6": 0,
+      "regexps": 2
+    },
+    "pooban-instagram": {
+      "domains": 73,
+      "ipv4": 0,
+      "ipv6": 0,
+      "regexps": 0
+    },
+    "pooban-openai": {
+      "domains": 36,
+      "ipv4": 24,
+      "ipv6": 0,
+      "regexps": 7
+    },
+    "pooban-whatsapp": {
+      "domains": 11,
+      "ipv4": 0,
+      "ipv6": 0,
+      "regexps": 0
+    }
+  }
+}
