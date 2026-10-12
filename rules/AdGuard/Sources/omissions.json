@@ -2253,6 +2253,10 @@
   },
   {
     "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)sw\\.vidmoly\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
     "rule": "regexp:(?:^|\\.)t.*\\.playdigo\\.live$"
   },
   {

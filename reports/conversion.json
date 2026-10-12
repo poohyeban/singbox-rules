@@ -3,7 +3,7 @@
   "categories": {
     "pooban-adguard": {
       "counts": {
-        "domains": 181247,
+        "domains": 183295,
         "ipv4": 0,
         "ipv6": 0,
         "regexps": 0
@@ -11,11 +11,11 @@
       "outputs": {
         "pooban-adguard": {
           "domain": 1,
-          "domain_suffix": 181246
+          "domain_suffix": 183294
         },
         "pooban-adguard-domain": {
           "domain": 1,
-          "domain_suffix": 181246
+          "domain_suffix": 183294
         }
       },
       "regexps_copied_verbatim": []
@@ -161,7 +161,7 @@
     }
   },
   "failure_policy": "Unknown syntax, altered inventory, engine errors, unexpected shrink or reference drift stop publication",
-  "inherited_adguard_diagnostics": 761,
+  "inherited_adguard_diagnostics": 762,
   "mapping": {
     "domain": "domain_suffix",
     "full": "domain",
