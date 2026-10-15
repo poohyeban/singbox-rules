@@ -3,7 +3,7 @@
   "categories": {
     "pooban-adguard": {
       "counts": {
-        "domains": 183577,
+        "domains": 183615,
         "ipv4": 0,
         "ipv6": 0,
         "regexps": 0
@@ -11,11 +11,11 @@
       "outputs": {
         "pooban-adguard": {
           "domain": 1,
-          "domain_suffix": 183576
+          "domain_suffix": 183614
         },
         "pooban-adguard-domain": {
           "domain": 1,
-          "domain_suffix": 183576
+          "domain_suffix": 183614
         }
       },
       "regexps_copied_verbatim": []
