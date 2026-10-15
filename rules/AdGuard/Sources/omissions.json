@@ -1281,10 +1281,6 @@
   },
   {
     "reason": "exception-overlap-or-not-provably-disjoint",
-    "rule": "regexp:(?:^|\\.)fpb.*\\.51edu\\.com$"
-  },
-  {
-    "reason": "exception-overlap-or-not-provably-disjoint",
     "rule": "regexp:(?:^|\\.)fpb1\\.chinacar\\."
   },
   {
