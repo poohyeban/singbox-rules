@@ -2825,10 +2825,6 @@
   },
   {
     "reason": "exception-overlap-or-not-provably-disjoint",
-    "rule": "regexp:^2.59.219.121"
-  },
-  {
-    "reason": "exception-overlap-or-not-provably-disjoint",
     "rule": "regexp:^23\\.109\\.170\\.(18[7-9]|19[0-2])$"
   },
   {

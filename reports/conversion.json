@@ -3,7 +3,7 @@
   "categories": {
     "pooban-adguard": {
       "counts": {
-        "domains": 184233,
+        "domains": 184541,
         "ipv4": 0,
         "ipv6": 0,
         "regexps": 0
@@ -11,11 +11,11 @@
       "outputs": {
         "pooban-adguard": {
           "domain": 1,
-          "domain_suffix": 184232
+          "domain_suffix": 184540
         },
         "pooban-adguard-domain": {
           "domain": 1,
-          "domain_suffix": 184232
+          "domain_suffix": 184540
         }
       },
       "regexps_copied_verbatim": []
@@ -23,8 +23,8 @@
     "pooban-china": {
       "counts": {
         "domains": 6624,
-        "ipv4": 8204,
-        "ipv6": 11467,
+        "ipv4": 8193,
+        "ipv6": 11449,
         "regexps": 3
       },
       "outputs": {
@@ -32,7 +32,7 @@
           "domain": 44,
           "domain_regex": 3,
           "domain_suffix": 6577,
-          "ip_cidr": 19671
+          "ip_cidr": 19642
         },
         "pooban-china-domain": {
           "domain": 44,
@@ -40,7 +40,7 @@
           "domain_suffix": 6577
         },
         "pooban-china-ip": {
-          "ip_cidr": 19671
+          "ip_cidr": 19642
         }
       },
       "regexps_copied_verbatim": [
@@ -161,7 +161,7 @@
     }
   },
   "failure_policy": "Unknown syntax, altered inventory, engine errors, unexpected shrink or reference drift stop publication",
-  "inherited_adguard_diagnostics": 761,
+  "inherited_adguard_diagnostics": 760,
   "mapping": {
     "domain": "domain_suffix",
     "full": "domain",
