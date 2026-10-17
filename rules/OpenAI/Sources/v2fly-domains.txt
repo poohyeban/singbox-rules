@@ -9,6 +9,7 @@ domain:oaistatsig.com
 domain:oaiusercontent.com
 domain:openai.com
 domain:openai.com.cdn.cloudflare.net
+domain:openai.org
 domain:sora.com
 domain:turn.livekit.cloud
 full:browser-intake-datadoghq.com
