@@ -1,18 +1,18 @@
 {
   "adguard": {
     "badfilter": 5,
-    "blocks_before_exceptions": 188212,
+    "blocks_before_exceptions": 188240,
     "disabled": 1,
     "exception_envelopes": 11,
     "exceptions": 208,
     "important_conservatively_lowered": 5,
-    "input": 188476,
+    "input": 188504,
     "omitted": 760,
-    "output": 187509
+    "output": 187537
   },
   "artifacts": {
     "geoip.dat": "f247858ee4f8bb05b24b1a9fade65e68cf642d376217f7345ec49f52564ff035",
-    "geosite.dat": "3c661f41d56d0b5c8546ec99fc9a3c11754643591002f495642cd6482820662e"
+    "geosite.dat": "625c27f16d13c872800bd630c8bbc6dd508211f8c731ff35aa6b39df2d2a984b"
   },
   "asn_records": {
     "401518": 1,
@@ -20,7 +20,7 @@
   },
   "counts": {
     "pooban-adguard": {
-      "domains": 187509,
+      "domains": 187537,
       "ipv4": 0,
       "ipv6": 0,
       "regexps": 0
@@ -197,7 +197,7 @@
   },
   "sources": {
     "adguard": {
-      "sha256": "ab8f552ae37ce8fc0ce51cedb2506ba1cc0d50b9937080a4b2e72391e8d61fca",
+      "sha256": "5fbb2628275dae17e24202fac50b4b5d414bfab18cd4f7ea0a5d202d2d5a9c26",
       "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
     },
     "asn": {
