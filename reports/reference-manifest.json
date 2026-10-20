@@ -1,18 +1,18 @@
 {
   "adguard": {
     "badfilter": 5,
-    "blocks_before_exceptions": 188240,
+    "blocks_before_exceptions": 189015,
     "disabled": 1,
     "exception_envelopes": 11,
-    "exceptions": 208,
+    "exceptions": 209,
     "important_conservatively_lowered": 5,
-    "input": 188504,
+    "input": 189280,
     "omitted": 760,
-    "output": 187537
+    "output": 188312
   },
   "artifacts": {
     "geoip.dat": "f247858ee4f8bb05b24b1a9fade65e68cf642d376217f7345ec49f52564ff035",
-    "geosite.dat": "625c27f16d13c872800bd630c8bbc6dd508211f8c731ff35aa6b39df2d2a984b"
+    "geosite.dat": "ab7b5fa704dcde1abd25c823bdfabc42d1822c8e41311c900df892e391e45e51"
   },
   "asn_records": {
     "401518": 1,
@@ -20,13 +20,13 @@
   },
   "counts": {
     "pooban-adguard": {
-      "domains": 187537,
+      "domains": 188312,
       "ipv4": 0,
       "ipv6": 0,
       "regexps": 0
     },
     "pooban-china": {
-      "domains": 6624,
+      "domains": 6626,
       "ipv4": 8104,
       "ipv6": 11469,
       "regexps": 3
@@ -197,7 +197,7 @@
   },
   "sources": {
     "adguard": {
-      "sha256": "5fbb2628275dae17e24202fac50b4b5d414bfab18cd4f7ea0a5d202d2d5a9c26",
+      "sha256": "5f8488b104e0798075362cd07f2e803fc77a21222aa182d3807d10a198ac2361",
       "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
     },
     "asn": {
@@ -205,7 +205,7 @@
       "url": "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb"
     },
     "china-domain": {
-      "sha256": "16094882e0b0cef10c2dd366288d7a103128c69d91a7168e2abb5cbe486a22a0",
+      "sha256": "42d74f6346c5b267482f145eaa390222591a9234bac1613294bca50e658396df",
       "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/release/cn.txt"
     },
     "country": {
@@ -213,7 +213,7 @@
       "url": "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
     },
     "google-domain": {
-      "sha256": "2cd9abf5fa8741df5deca36cea230e89b637cf2132b83cbea7edefb46792c28e",
+      "sha256": "ef77fecd7be7d85a037da27778e69d648363d5125e4f79dd42abe0d43e909dc1",
       "url": "https://codeload.github.com/v2fly/domain-list-community/zip/refs/heads/master"
     },
     "openai-domain": {
