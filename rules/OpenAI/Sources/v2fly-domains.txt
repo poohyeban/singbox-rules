@@ -14,6 +14,7 @@ domain:sora.com
 domain:turn.livekit.cloud
 full:browser-intake-datadoghq.com
 full:o33249.ingest.sentry.io
+full:o33249.ingest.us.sentry.io
 full:openai.qualtrics.com
 full:openaiapi-site.azureedge.net
 full:openaiassets.blob.core.windows.net

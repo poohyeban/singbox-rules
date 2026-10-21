@@ -1,18 +1,18 @@
 {
   "adguard": {
     "badfilter": 5,
-    "blocks_before_exceptions": 189892,
+    "blocks_before_exceptions": 190223,
     "disabled": 1,
     "exception_envelopes": 11,
     "exceptions": 209,
     "important_conservatively_lowered": 5,
-    "input": 190157,
+    "input": 190488,
     "omitted": 760,
-    "output": 189189
+    "output": 189520
   },
   "artifacts": {
     "geoip.dat": "f247858ee4f8bb05b24b1a9fade65e68cf642d376217f7345ec49f52564ff035",
-    "geosite.dat": "59212f766e9427b6a683617fc023e053d0c128f9ca12ae9762fd94ca42ce1ee6"
+    "geosite.dat": "5f8c5821c0789ea048edb9ad9c02526d9be0d341fbf3b1fbb55ad4f9cf2595fc"
   },
   "asn_records": {
     "401518": 1,
@@ -20,7 +20,7 @@
   },
   "counts": {
     "pooban-adguard": {
-      "domains": 189189,
+      "domains": 189520,
       "ipv4": 0,
       "ipv6": 0,
       "regexps": 0
@@ -50,7 +50,7 @@
       "regexps": 0
     },
     "pooban-openai": {
-      "domains": 37,
+      "domains": 38,
       "ipv4": 24,
       "ipv6": 0,
       "regexps": 7
@@ -197,7 +197,7 @@
   },
   "sources": {
     "adguard": {
-      "sha256": "d7405e0ac30b47cdc26b2c10d2d86a9134c02e830aed611ca4692b99c938fc8e",
+      "sha256": "0d29322d8010ae39fc41ac34fe5eab0b7b1e53c030b5a3ac08f9ba6d75738bc9",
       "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
     },
     "asn": {
@@ -213,11 +213,11 @@
       "url": "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
     },
     "google-domain": {
-      "sha256": "ef77fecd7be7d85a037da27778e69d648363d5125e4f79dd42abe0d43e909dc1",
+      "sha256": "85ec654840468eaa0c4a0c59d90bac2d2ed24b28917a73816e673e485969e30a",
       "url": "https://codeload.github.com/v2fly/domain-list-community/zip/refs/heads/master"
     },
     "openai-domain": {
-      "sha256": "5276ab68c1a2d44db2cd745a9146d1645ef3dd3c388fdd1079b6b49267d60ddc",
+      "sha256": "ec1043e63c31bbef51efe13a3e2af29a3f66b8b4692f517d75a864cbc4a3d88d",
       "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/openai"
     },
     "sukka-meta": {

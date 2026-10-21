@@ -19,6 +19,7 @@ full:chat.openai.com
 full:desktop.chat.openai.com
 full:ios.chat.openai.com
 full:o33249.ingest.sentry.io
+full:o33249.ingest.us.sentry.io
 full:openai.qualtrics.com
 full:openaiapi-site.azureedge.net
 full:openaiassets.blob.core.windows.net
