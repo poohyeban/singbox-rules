@@ -1,9 +1,9 @@
 {
-  "commit": "fdb978f07ef6205866f85128468fa5505e2c68eb",
+  "commit": "e8448d37274cb2141405e224aac8161c28fbee95",
   "files": {
     "LICENSE": "941062fa461b8992192973ebbb00321cc1ae976643dfcc5045a2879c649a5bf0",
     "NOTICE.md": "0ed83ebbf033df8638445df7afaf5b9525894d5f58f28bde682bc9f010ac14f7",
-    "README.md": "1f27065802553900c4a32b7fd00efb6c28e0739b0a10d0447e15d2f28c9c6d78",
+    "README.md": "b1e21bc37d64bba49f81eab4773481c030828d634f497be09788e4004b84ecdc",
     "README.zh-CN.md": "54c557ee9933b7742d287f4f58804920948dc8ba77248175b10a50605208090a",
     "data/Meta/sukka-review.json": "36dbaced73c24886823f973acf52faeb7d2291ce90763810c4e1dc73de7b39be",
     "data/OpenAI/official-domains-excluded.txt": "7cd36f96f4df2edbbc569f93706b31202e24ed1b0244348a249e906471ec6bbd",

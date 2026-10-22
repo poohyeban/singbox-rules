@@ -21,4 +21,4 @@ Official sources consulted on 2026-10-11:
 - [Headless rule fields and OR semantics](https://sing-box.sagernet.org/configuration/rule-set/headless-rule/)
 - [Local and remote rule sets](https://sing-box.sagernet.org/configuration/rule-set/)
 - [Official compiler implementation at v1.14.3](https://github.com/SagerNet/sing-box/blob/v1.14.3/cmd/sing-box/cmd_rule_set_compile.go)
-- [Original domain model and reviewed wildcard handling](https://github.com/poohyeban/passwall2-rules/blob/fdb978f07ef6205866f85128468fa5505e2c68eb/scripts/model.py)
+- [Original domain model and reviewed wildcard handling](https://github.com/poohyeban/passwall2-rules/blob/e8448d37274cb2141405e224aac8161c28fbee95/scripts/model.py)

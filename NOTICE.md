@@ -3,7 +3,7 @@
 The generator adapter, workflow and new tests use the root MIT license. The
 reference implementation and its original notices are retained byte-for-byte
 under `vendor/passwall2/`, from passwall2-rules commit
-`fdb978f07ef6205866f85128468fa5505e2c68eb`.
+`e8448d37274cb2141405e224aac8161c28fbee95`.
 
 Reference: https://github.com/poohyeban/passwall2-rules
 

@@ -1,5 +1,7 @@
 # passwall2-rules
 
+CI 每次检查并使用最新稳定版 Python 3（`3.x` + `check-latest`，不含预发布版），同时更新 pip；转换测试通过后才会发布规则。
+
 **English** | [简体中文](README.zh-CN.md)
 
 Generate **China, Google, OpenAI, AdGuard, WhatsApp, Instagram, and Facebook** rules for a dedicated rule group in

@@ -124,7 +124,7 @@ class RejectionTests(unittest.TestCase):
 
     def test_reference_snapshot_is_byte_identical(self):
         lock = check_local()
-        self.assertEqual(lock["commit"], "fdb978f07ef6205866f85128468fa5505e2c68eb")
+        self.assertEqual(lock["commit"], "e8448d37274cb2141405e224aac8161c28fbee95")
 
     def test_changed_reference_is_fatal(self):
         with tempfile.TemporaryDirectory() as temporary:

@@ -2,7 +2,7 @@
 
 独立的 sing-box 分流规则仓库。完整复用 [passwall2-rules](https://github.com/poohyeban/passwall2-rules) 的上游来源、七类规则、包含关系、人工审核输入、排除项、CIDR 合并和安全检查，生成官方 JSON 源规则及 `.srs` 二进制规则集。构建和自动更新只写入本仓库。
 
-参考逻辑固定于 [`fdb978f07ef6205866f85128468fa5505e2c68eb`](https://github.com/poohyeban/passwall2-rules/tree/fdb978f07ef6205866f85128468fa5505e2c68eb)，以逐字节未修改的副本保存在 `vendor/passwall2/`，文件哈希记录于 [reference.lock.json](reference.lock.json)。原仓库的 39 项单元测试和原生 Xray 回归检查也被复用。上游数据每日重新抓取；参考仓库构建逻辑或审核输入发生变化时，自动报告并停止发布，待人工审查后更新快照。
+参考逻辑固定于 [`e8448d37274cb2141405e224aac8161c28fbee95`](https://github.com/poohyeban/passwall2-rules/tree/e8448d37274cb2141405e224aac8161c28fbee95)，以逐字节未修改的副本保存在 `vendor/passwall2/`，文件哈希记录于 [reference.lock.json](reference.lock.json)。原仓库的 39 项单元测试和原生 Xray 回归检查也被复用。上游数据每日重新抓取；参考仓库构建逻辑或审核输入发生变化时，自动报告并停止发布，待人工审查后更新快照。
 
 ## 规则与文件
 
