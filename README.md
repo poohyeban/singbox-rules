@@ -71,7 +71,7 @@ sing-box check -c examples/local.json
 
 ## 本地构建
 
-需要 Python 3.13；官方二进制下载脚本目前针对 Linux/amd64 构建环境。
+CI 每次检查并使用最新稳定版 Python 3（`3.x` + `check-latest`，不含预发布版），同时更新 pip；回归测试通过后才会发布规则。官方二进制下载脚本目前针对 Linux/amd64 构建环境。
 
 ```sh
 python3 -m venv .venv
