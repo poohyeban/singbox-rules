@@ -3,7 +3,7 @@
   "categories": {
     "pooban-adguard": {
       "counts": {
-        "domains": 189552,
+        "domains": 189586,
         "ipv4": 0,
         "ipv6": 0,
         "regexps": 0
@@ -11,11 +11,11 @@
       "outputs": {
         "pooban-adguard": {
           "domain": 1,
-          "domain_suffix": 189551
+          "domain_suffix": 189585
         },
         "pooban-adguard-domain": {
           "domain": 1,
-          "domain_suffix": 189551
+          "domain_suffix": 189585
         }
       },
       "regexps_copied_verbatim": []
@@ -168,7 +168,7 @@
     "keyword": "domain_keyword",
     "regexp": "domain_regex"
   },
-  "reference_commit": "fdb978f07ef6205866f85128468fa5505e2c68eb",
+  "reference_commit": "e8448d37274cb2141405e224aac8161c28fbee95",
   "scope": "Exact projection of the reference's resolved hostname/IP sets; not the entire upstream AdGuard language",
   "status": "lossless",
   "unconverted_rules": []
