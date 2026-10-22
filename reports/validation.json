@@ -16,19 +16,19 @@
   "engines": [
     {
       "all_json_compiled": true,
-      "isolated_routing_checks": 580,
+      "isolated_routing_checks": 578,
       "json_and_published_srs_loaded": true,
       "version": "1.13.0"
     },
     {
       "all_json_compiled": true,
-      "isolated_routing_checks": 580,
+      "isolated_routing_checks": 578,
       "json_and_published_srs_loaded": true,
       "version": "1.14.3"
     }
   ],
   "source_regexps_with_isolated_native_witnesses": 12,
   "status": "passed",
-  "xray_isolated_routing_checks": 290,
+  "xray_isolated_routing_checks": 289,
   "xray_version": "26.9.9"
 }

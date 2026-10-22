@@ -441,10 +441,6 @@
   },
   {
     "reason": "exception-overlap-or-not-provably-disjoint",
-    "rule": "regexp:(?:^|\\.).*\\.libaishuo\\.com$"
-  },
-  {
-    "reason": "exception-overlap-or-not-provably-disjoint",
     "rule": "regexp:(?:^|\\.).*adapt\\-beacon\\.awsprodops\\.movetv\\.com$"
   },
   {
@@ -2750,6 +2746,10 @@
   {
     "reason": "exception-overlap-or-not-provably-disjoint",
     "rule": "regexp:\\.is\\.traff\\-numerical\\.info$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:\\.libaishuo\\.com$"
   },
   {
     "reason": "exception-overlap-or-not-provably-disjoint",
