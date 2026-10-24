@@ -950,6 +950,7 @@ domain:biaoda.me
 domain:bibaodao.com
 domain:bidchance.com
 domain:biddingx.com
+domain:bigdatacq.com
 domain:bihu.com
 domain:biji.com
 domain:biliapi.com
@@ -1304,6 +1305,8 @@ domain:cdnmg.com
 domain:cdntip.com
 domain:cdntips.com
 domain:cdntips.net
+domain:cdrcb.com
+domain:cdrcbank.com
 domain:cdut.top
 domain:ceair.com
 domain:cebbank.com
@@ -1474,6 +1477,7 @@ domain:ckxx.net
 domain:clangcn.com
 domain:clawhub-mirror.com
 domain:clawhubmirror.com
+domain:cldisk.com
 domain:cleargrass.com
 domain:clewm.net
 domain:cli.im
@@ -1690,10 +1694,12 @@ domain:cps.360buy.com
 domain:cpu.baidu.com
 domain:cqcb.com
 domain:cqccn.com
+domain:cqdcg.com
 domain:cqliving.com
 domain:cqnews.net
 domain:cqsjb.com
 domain:cqvip.com
+domain:cqyyxc.com
 domain:cr-cts.com
 domain:cr173.com
 domain:crash.163.com
@@ -1891,6 +1897,7 @@ domain:didialift.com
 domain:didichuxing.com
 domain:didistatic.com
 domain:dig.bdurl.net
+domain:digitalcnzz.com
 domain:digitaling.com
 domain:dili360.com
 domain:dingdachuxing.com
@@ -2090,6 +2097,7 @@ domain:e.kuaishou.com
 domain:e.qq.com
 domain:e.stat.ykimg.com
 domain:eagsen.com
+domain:easemob.com
 domain:easesale.com
 domain:easiu.com
 domain:eastday.com
@@ -2938,6 +2946,7 @@ domain:iadmusicmat.music.126.net
 domain:iadmusicmatvideo.music.126.net
 domain:ialicdn.com
 domain:iask.com
+domain:ibangbank.com
 domain:ibaotu.com
 domain:ibcet.org
 domain:ibdxiguaimg.com
@@ -3096,6 +3105,7 @@ domain:isealsuite.com
 domain:ishijue.com
 domain:ishumei.com
 domain:ishuqi.com
+domain:isigning.com
 domain:ispqcloud.com
 domain:istoreos.com
 domain:isvjcloud.com
@@ -4042,7 +4052,6 @@ domain:modaiyun.com
 domain:modelarts-infer.com
 domain:modelarts-maas.com
 domain:moedu.com
-domain:moegirl.org
 domain:mofang.com
 domain:mofazhu.com
 domain:mogoo.com
@@ -4156,6 +4165,7 @@ domain:nagcloudcs.com
 domain:naixuecha.com
 domain:namiso.com
 domain:nanhaicorp.com
+domain:nanocorechip.com
 domain:nanyuenews.com
 domain:narwal.com
 domain:narwaltech.com
@@ -6147,6 +6157,7 @@ domain:xuetangx.com
 domain:xuexi365.com
 domain:xuexi365.net
 domain:xuexicha.com
+domain:xuexitong.com
 domain:xundupdf.com
 domain:xunfeixxj.com
 domain:xunjiepdf.com

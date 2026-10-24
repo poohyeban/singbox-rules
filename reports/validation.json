@@ -25,6 +25,12 @@
       "isolated_routing_checks": 578,
       "json_and_published_srs_loaded": true,
       "version": "1.14.3"
+    },
+    {
+      "all_json_compiled": true,
+      "isolated_routing_checks": 578,
+      "json_and_published_srs_loaded": true,
+      "version": "1.14.4"
     }
   ],
   "source_regexps_with_isolated_native_witnesses": 12,
