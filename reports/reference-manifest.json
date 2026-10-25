@@ -1,18 +1,18 @@
 {
   "adguard": {
     "badfilter": 5,
-    "blocks_before_exceptions": 191345,
+    "blocks_before_exceptions": 191650,
     "disabled": 1,
     "exception_envelopes": 11,
     "exceptions": 209,
     "important_conservatively_lowered": 5,
-    "input": 191610,
+    "input": 191915,
     "omitted": 760,
-    "output": 190642
+    "output": 190947
   },
   "artifacts": {
-    "geoip.dat": "f77e0ab7c50d42609bf3e97faf499370acf96055563da8131c47189957b55910",
-    "geosite.dat": "840c7feafd97f0b73c1f47bb88045138e074e43650ef701e2fe91f60b8c800a2"
+    "geoip.dat": "e378c940c3a94caba89f6c540854b049955ba3524eedf8aa1a8bd4ec50cc1db6",
+    "geosite.dat": "751443a016e06a759e9d4969586bcca68b4af5403415f3bcd8d8c06af9334a8f"
   },
   "asn_records": {
     "401518": 1,
@@ -20,15 +20,15 @@
   },
   "counts": {
     "pooban-adguard": {
-      "domains": 190642,
+      "domains": 190947,
       "ipv4": 0,
       "ipv6": 0,
       "regexps": 0
     },
     "pooban-china": {
       "domains": 6637,
-      "ipv4": 7957,
-      "ipv6": 11532,
+      "ipv4": 7963,
+      "ipv6": 11527,
       "regexps": 3
     },
     "pooban-facebook": {
@@ -51,7 +51,7 @@
     },
     "pooban-openai": {
       "domains": 38,
-      "ipv4": 24,
+      "ipv4": 151,
       "ipv6": 0,
       "regexps": 7
     },
@@ -197,11 +197,11 @@
   },
   "sources": {
     "adguard": {
-      "sha256": "3d5bf609bc451f7d5fbce638dd2fcceab74313764fd59e662f0b8796b5ca0b9b",
+      "sha256": "ed71353e50f441496f1c7ef7cf566de1b94827492c40c9012ec77670df023814",
       "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
     },
     "asn": {
-      "sha256": "4f480469576dba3e84b1f5c17313059982b70a62b8d35fb1ed225e39109b0531",
+      "sha256": "dedeebd7aff855488b0e7a1a2a98f482cc255741c72f21f42a096509a21bff15",
       "url": "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb"
     },
     "china-domain": {
@@ -209,11 +209,11 @@
       "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/release/cn.txt"
     },
     "country": {
-      "sha256": "c7b73dd5e1a618c6df2d9a716cf95b939a51016de8978cd317d9ae7ebf3f0b5f",
+      "sha256": "4d3587f2f39e8d5dced147bfcaa2a13b1655938930ed020e25929e91e1303fc8",
       "url": "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
     },
     "google-domain": {
-      "sha256": "3e4b1f74c697733bb2f1dada49b9d646aa622a86a7adbdd39e659b1aeeee9ac0",
+      "sha256": "e3d8f59e4f144c89f977db89c843d1b8a3a560c1fc8e249c585d2925bd21b9ed",
       "url": "https://codeload.github.com/v2fly/domain-list-community/zip/refs/heads/master"
     },
     "openai-domain": {
@@ -225,7 +225,7 @@
       "url": "https://raw.githubusercontent.com/SukkaW/Surge/master/Source/non_ip/global.conf"
     },
     "voice": {
-      "sha256": "8f03f3c594165eeff009915c7e2beb4bdfb9d429fb1955c205e3b33ec781899a",
+      "sha256": "000da4875ec5ffc62d165de5d2a305a22850693d319d0ecc03b5dc91b8515d8c",
       "url": "https://openai.com/chatgpt-voice.json"
     }
   },
