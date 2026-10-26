@@ -905,6 +905,9 @@ full:app-analytics-services.com
 full:app-measurement-cn.com
 full:app-measurement.com
 full:apps5.oingo.com
+full:appsgenaiserver-pa.clients.google.com
+full:appsgenaiserver-pa.clients6.google.com
+full:appsgenaiserver-pa.googleapis.com
 full:avail.googleflights.net
 full:beacons.gcp.gvt2.com
 full:beacons.gvt2.com

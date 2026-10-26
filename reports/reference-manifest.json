@@ -1,18 +1,18 @@
 {
   "adguard": {
     "badfilter": 5,
-    "blocks_before_exceptions": 191705,
+    "blocks_before_exceptions": 183991,
     "disabled": 1,
     "exception_envelopes": 11,
     "exceptions": 209,
     "important_conservatively_lowered": 5,
-    "input": 191970,
+    "input": 184256,
     "omitted": 760,
-    "output": 191002
+    "output": 183288
   },
   "artifacts": {
     "geoip.dat": "e378c940c3a94caba89f6c540854b049955ba3524eedf8aa1a8bd4ec50cc1db6",
-    "geosite.dat": "f4dcd823725ec1771ac4b360fd2a835200f9b38a4a60ae453f67962c5b9402f5"
+    "geosite.dat": "d555973ccf548feff6853dea353064d821424fcaf4801c5664df2f0a66d565e9"
   },
   "asn_records": {
     "401518": 1,
@@ -20,13 +20,13 @@
   },
   "counts": {
     "pooban-adguard": {
-      "domains": 191002,
+      "domains": 183288,
       "ipv4": 0,
       "ipv6": 0,
       "regexps": 0
     },
     "pooban-china": {
-      "domains": 6637,
+      "domains": 6639,
       "ipv4": 7963,
       "ipv6": 11527,
       "regexps": 3
@@ -38,7 +38,7 @@
       "regexps": 0
     },
     "pooban-google": {
-      "domains": 1122,
+      "domains": 1125,
       "ipv4": 0,
       "ipv6": 0,
       "regexps": 2
@@ -197,7 +197,7 @@
   },
   "sources": {
     "adguard": {
-      "sha256": "6709775ad372098fe499d7f1fa93ded310f953cfc273d4ff2af50521e581fe5b",
+      "sha256": "cc842a22c47a7f4341054a931b653d4486291ca09e609793f5d064b96b8922cd",
       "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
     },
     "asn": {
@@ -205,7 +205,7 @@
       "url": "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb"
     },
     "china-domain": {
-      "sha256": "abaaa3f5d5059f89573033f0833cf02a0c334a13e5abdfa31d779d77c7f6678b",
+      "sha256": "080969c3b438b25883e97f3b0de6f1b2be990e04aa82d963fde2214bd39b2719",
       "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/release/cn.txt"
     },
     "country": {
@@ -213,11 +213,11 @@
       "url": "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
     },
     "google-domain": {
-      "sha256": "e3d8f59e4f144c89f977db89c843d1b8a3a560c1fc8e249c585d2925bd21b9ed",
+      "sha256": "72cc3af7b8d32bb26caaff83b71a003c1e32b2b29bc19547a7ddd7f1a07c7565",
       "url": "https://codeload.github.com/v2fly/domain-list-community/zip/refs/heads/master"
     },
     "openai-domain": {
-      "sha256": "ec1043e63c31bbef51efe13a3e2af29a3f66b8b4692f517d75a864cbc4a3d88d",
+      "sha256": "25d53e9af3e04d926210d6436bd791594ef4b86f2dc3c108510ac8059d76d969",
       "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/openai"
     },
     "sukka-meta": {

@@ -2288,6 +2288,7 @@ domain:fgo.wiki
 domain:fhldns.com
 domain:fhyx.com
 domain:filez.com
+domain:filmorigin.com
 domain:fimmu.com
 domain:finchina.com
 domain:finclip.com
@@ -3281,7 +3282,6 @@ domain:jike.city
 domain:jikecdn.com
 domain:jikeiot.cloud
 domain:jikexueyuan.com
-domain:jikipedia.com
 domain:jimeng.com
 domain:jin10.com
 domain:jinchutou.com
@@ -3438,6 +3438,7 @@ domain:kaipuyun.com
 domain:kaipuyun.net
 domain:kaixin001.com
 domain:kajicam.com
+domain:kakaxing.com
 domain:kameng98.com
 domain:kanbox.com
 domain:kanimg.com
@@ -6031,6 +6032,7 @@ domain:xiaolianhb.com
 domain:xiaoluyouxuan.com
 domain:xiaoluzhidian.com
 domain:xiaomaicn.com
+domain:xiaomaigui.com
 domain:xiaomengai.com
 domain:xiaomi.com
 domain:xiaomi.net
