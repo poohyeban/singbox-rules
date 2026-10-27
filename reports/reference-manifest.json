@@ -1,18 +1,18 @@
 {
   "adguard": {
     "badfilter": 5,
-    "blocks_before_exceptions": 184052,
+    "blocks_before_exceptions": 184354,
     "disabled": 1,
     "exception_envelopes": 11,
     "exceptions": 209,
     "important_conservatively_lowered": 5,
-    "input": 184317,
-    "omitted": 760,
-    "output": 183349
+    "input": 184619,
+    "omitted": 761,
+    "output": 183650
   },
   "artifacts": {
-    "geoip.dat": "e378c940c3a94caba89f6c540854b049955ba3524eedf8aa1a8bd4ec50cc1db6",
-    "geosite.dat": "97df9cee85074b9905a76edce738b8d66b41e94fb4bb9c45a52dd68937b0b6b3"
+    "geoip.dat": "5edcddda42dc89ff27a1180d75ede3759274489da9cb4f4053f7888b6360dd1a",
+    "geosite.dat": "2b5949038ee704d6cc7b8e426b875849ec559af1a65061ad5c0f95f095081966"
   },
   "asn_records": {
     "401518": 1,
@@ -20,7 +20,7 @@
   },
   "counts": {
     "pooban-adguard": {
-      "domains": 183349,
+      "domains": 183650,
       "ipv4": 0,
       "ipv6": 0,
       "regexps": 0
@@ -51,7 +51,7 @@
     },
     "pooban-openai": {
       "domains": 38,
-      "ipv4": 151,
+      "ipv4": 379,
       "ipv6": 0,
       "regexps": 7
     },
@@ -197,7 +197,7 @@
   },
   "sources": {
     "adguard": {
-      "sha256": "cac62c7aef489f2a8e651880e2a311ef8bf0c6b2216cf4efb58f23a3395cf8ec",
+      "sha256": "d49229d64e255f83cabc4478182c0b05ae9bf0a188676ad7ab935aa7aceda2d4",
       "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
     },
     "asn": {
@@ -213,7 +213,7 @@
       "url": "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
     },
     "google-domain": {
-      "sha256": "72cc3af7b8d32bb26caaff83b71a003c1e32b2b29bc19547a7ddd7f1a07c7565",
+      "sha256": "56605bae7bf73d0f41f745785d66fc8847ce63d58200072daf6f87ea9dc96b9f",
       "url": "https://codeload.github.com/v2fly/domain-list-community/zip/refs/heads/master"
     },
     "openai-domain": {
@@ -225,7 +225,7 @@
       "url": "https://raw.githubusercontent.com/SukkaW/Surge/master/Source/non_ip/global.conf"
     },
     "voice": {
-      "sha256": "000da4875ec5ffc62d165de5d2a305a22850693d319d0ecc03b5dc91b8515d8c",
+      "sha256": "b612e03883264ba52ec801f4043c8476baca1c96aa61780c679771d8e800182f",
       "url": "https://openai.com/chatgpt-voice.json"
     }
   },

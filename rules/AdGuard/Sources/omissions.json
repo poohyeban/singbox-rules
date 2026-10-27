@@ -753,6 +753,10 @@
   },
   {
     "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)analytics\\.dulo\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
     "rule": "regexp:(?:^|\\.)analytics\\.streamfab\\."
   },
   {
@@ -986,6 +990,10 @@
   {
     "reason": "exception-overlap-or-not-provably-disjoint",
     "rule": "regexp:(?:^|\\.)cnt\\.hd21\\."
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)cnt\\.iceporn\\."
   },
   {
     "reason": "exception-overlap-or-not-provably-disjoint",
@@ -2210,10 +2218,6 @@
   {
     "reason": "exception-overlap-or-not-provably-disjoint",
     "rule": "regexp:(?:^|\\.)stats\\.debatdirect\\.tweedekamer\\.nl"
-  },
-  {
-    "reason": "exception-overlap-or-not-provably-disjoint",
-    "rule": "regexp:(?:^|\\.)stats\\.dulo\\."
   },
   {
     "reason": "exception-overlap-or-not-provably-disjoint",
