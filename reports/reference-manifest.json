@@ -1,18 +1,18 @@
 {
   "adguard": {
     "badfilter": 5,
-    "blocks_before_exceptions": 184354,
+    "blocks_before_exceptions": 184411,
     "disabled": 1,
     "exception_envelopes": 11,
     "exceptions": 209,
     "important_conservatively_lowered": 5,
-    "input": 184619,
+    "input": 184676,
     "omitted": 761,
-    "output": 183650
+    "output": 183707
   },
   "artifacts": {
-    "geoip.dat": "5edcddda42dc89ff27a1180d75ede3759274489da9cb4f4053f7888b6360dd1a",
-    "geosite.dat": "2b5949038ee704d6cc7b8e426b875849ec559af1a65061ad5c0f95f095081966"
+    "geoip.dat": "88b2de455046f9a2684a1068546b4871ce1a893db4c58950330e8709670c8e5a",
+    "geosite.dat": "ca375c30f83269db23a291872673fbcff83aefa18e515c9d4819b5f715a46288"
   },
   "asn_records": {
     "401518": 1,
@@ -20,7 +20,7 @@
   },
   "counts": {
     "pooban-adguard": {
-      "domains": 183650,
+      "domains": 183707,
       "ipv4": 0,
       "ipv6": 0,
       "regexps": 0
@@ -51,7 +51,7 @@
     },
     "pooban-openai": {
       "domains": 38,
-      "ipv4": 379,
+      "ipv4": 401,
       "ipv6": 0,
       "regexps": 7
     },
@@ -197,7 +197,7 @@
   },
   "sources": {
     "adguard": {
-      "sha256": "d49229d64e255f83cabc4478182c0b05ae9bf0a188676ad7ab935aa7aceda2d4",
+      "sha256": "402089fd823c7761b4a9732020c46c30b6607fc24fc3a61b7efbda35407eb966",
       "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
     },
     "asn": {
@@ -225,7 +225,7 @@
       "url": "https://raw.githubusercontent.com/SukkaW/Surge/master/Source/non_ip/global.conf"
     },
     "voice": {
-      "sha256": "b612e03883264ba52ec801f4043c8476baca1c96aa61780c679771d8e800182f",
+      "sha256": "d2923918cc4cd6bf382f379b1601af871fbff66d8fefb81d4457f2ccba1ec959",
       "url": "https://openai.com/chatgpt-voice.json"
     }
   },
