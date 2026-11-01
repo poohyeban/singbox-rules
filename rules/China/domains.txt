@@ -632,6 +632,7 @@ domain:alitrip.com
 domain:alittle-tea.com
 domain:alitui.weibo.com
 domain:aliunicorn.com
+domain:alivecdn.com
 domain:aliway.com
 domain:aliwork.com
 domain:aliwx.net
@@ -654,6 +655,7 @@ domain:allawntech.com
 domain:allday.work
 domain:allhistory.com
 domain:alloyteam.com
+domain:allwinnertech.com
 domain:allyes.com
 domain:alog.umeng.com
 domain:alog.umengcloud.com
@@ -1051,6 +1053,7 @@ domain:build9s.io
 domain:building.fun
 domain:buke999.com
 domain:burningvocabulary.com
+domain:busyming.com
 domain:buydouke.com
 domain:buyjingxi.com
 domain:bvfcdn.com
@@ -1196,6 +1199,7 @@ domain:caiyunai.com
 domain:caiyunapp.com
 domain:caiyuncdn.com
 domain:calorietech.com
+domain:cambricon.com
 domain:camcard.com
 domain:camscanner.com
 domain:cang.com
@@ -1988,6 +1992,7 @@ domain:douban.fm
 domain:doubanio.com
 domain:doubao-dev.com
 domain:doubao.com
+domain:doubaoapps.com
 domain:doubaocdn.com
 domain:doubo03.com
 domain:doucang.com
@@ -2134,6 +2139,7 @@ domain:ecombdimg.com
 domain:ecombdstatic.com
 domain:ecombdvod.com
 domain:ecukwai.com
+domain:edge-byted.com
 domain:edgeceler.com
 domain:edgemonix.top
 domain:edgeone.cool
@@ -2639,6 +2645,7 @@ domain:haier.com
 domain:haier.net
 domain:haiersmarthomes.com
 domain:hailuoai.com
+domain:haimian.com
 domain:hainanairlines.com
 domain:haishun.com
 domain:halvie.com
@@ -2764,6 +2771,7 @@ domain:hnair.com
 domain:hnbntv.com
 domain:hnchasing.com
 domain:hndt.com
+domain:hnlshm.com
 domain:hnol.net
 domain:hnrcsc.com
 domain:hntv.tv
@@ -4044,6 +4052,12 @@ domain:mmarket6.com
 domain:mmbang.com
 domain:mmbang.info
 domain:mmstat.com
+domain:mnc000.mcc460.pub.3gppnetwork.org
+domain:mnc002.mcc460.pub.3gppnetwork.org
+domain:mnc004.mcc460.pub.3gppnetwork.org
+domain:mnc007.mcc460.pub.3gppnetwork.org
+domain:mnc011.mcc460.pub.3gppnetwork.org
+domain:mnc015.mcc460.pub.3gppnetwork.org
 domain:mndqlib.net
 domain:mob.com
 domain:mobads-logs.baidu.com
@@ -4103,6 +4117,7 @@ domain:msstatic.com
 domain:mszdld.com
 domain:mszdld.net
 domain:mszq.com
+domain:mthreads.com
 domain:mti100.com
 domain:mtime.com
 domain:mting.info
@@ -4562,6 +4577,7 @@ domain:qianxun.com
 domain:qianyierp.com
 domain:qianzhan.com
 domain:qiaobutang.com
+domain:qiaqiafood.com
 domain:qichacha.com
 domain:qichamao.com
 domain:qidian.com
@@ -4971,6 +4987,7 @@ domain:soufun.com
 domain:soufunimg.com
 domain:soulteary.com
 domain:souqian.com
+domain:southchip.com
 domain:southcn.com
 domain:southmoney.com
 domain:sparenode.com
@@ -5244,6 +5261,7 @@ domain:tendcloud.com
 domain:tendis.net
 domain:tengmed.com
 domain:tenpay.com
+domain:tenpayglobal.com
 domain:tenxcloud.com
 domain:tesoon.com
 domain:test-cignacmb.com
@@ -5868,6 +5886,7 @@ domain:wenxiaozhan.com
 domain:wenxiaozhan.net
 domain:wenxin-ge.com
 domain:west95582.com
+domain:wesure100.com
 domain:weui.io
 domain:wework-studio.com
 domain:wf.pub
@@ -6584,6 +6603,7 @@ domain:zxhgroup.com
 domain:zxxk.com
 domain:zybang.com
 domain:zyh365.com
+domain:zymls.com
 domain:zysn.net
 domain:zysou.com
 domain:zyyct.com
