@@ -1,18 +1,18 @@
 {
   "adguard": {
     "badfilter": 5,
-    "blocks_before_exceptions": 188065,
+    "blocks_before_exceptions": 188306,
     "disabled": 1,
     "exception_envelopes": 11,
     "exceptions": 209,
     "important_conservatively_lowered": 5,
-    "input": 188330,
+    "input": 188571,
     "omitted": 761,
-    "output": 187361
+    "output": 187602
   },
   "artifacts": {
-    "geoip.dat": "515051ae5d9ee84b276c3e9edcec5736f324e50d2ef911b7ceb7e7ac5ec09fe9",
-    "geosite.dat": "0e6fa81e39ffbb39257269ea4f59ddb14257e1efa5ab7779f90bacc89e8de712"
+    "geoip.dat": "dbda0d919267fd1b8e597f96b00c44884d10b3a6302b25219706ccbabaaca14a",
+    "geosite.dat": "1114899b7cf9d14c4c1e8b8ccc5e0523d8b392f32058e1a8ac777e2234d1d49d"
   },
   "asn_records": {
     "401518": 1,
@@ -20,15 +20,15 @@
   },
   "counts": {
     "pooban-adguard": {
-      "domains": 187361,
+      "domains": 187602,
       "ipv4": 0,
       "ipv6": 0,
       "regexps": 0
     },
     "pooban-china": {
       "domains": 6662,
-      "ipv4": 7997,
-      "ipv6": 11561,
+      "ipv4": 7943,
+      "ipv6": 11528,
       "regexps": 3
     },
     "pooban-facebook": {
@@ -197,11 +197,11 @@
   },
   "sources": {
     "adguard": {
-      "sha256": "f2d5791cb81a2736058091aae60ed4a8d2197a6c8eac3cc607bd662e2f1f2d7f",
+      "sha256": "e33d10204353e2078e664a8b9e7719fb6aaca76e651f0eb0fe10fe86f43443df",
       "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
     },
     "asn": {
-      "sha256": "149e22495c37ce2247114878584c8014824fb342a02aaf1ff5be953479851933",
+      "sha256": "81a3ae0bc347a4980766dc1d5434a3a9a8404cd371e62ee3a632ff2d4fdc0e3a",
       "url": "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb"
     },
     "china-domain": {
@@ -209,11 +209,11 @@
       "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/release/cn.txt"
     },
     "country": {
-      "sha256": "7ef3b24a63044aee370098795c0ed01cb53bb2aaee8407dfc6475c5b42394d87",
+      "sha256": "2c366a33fbdb4b41f162e22f72b0b9b416b13d55740b086be12c136b4cfc8f25",
       "url": "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
     },
     "google-domain": {
-      "sha256": "18f6b594418fbeb3befbc21bebdfdbae04ee4833955402067523441f30a70b21",
+      "sha256": "d29d28b5b0bbc9b2aaa696fd537a6a851252f598ab2ca4efc86246e693276ddf",
       "url": "https://codeload.github.com/v2fly/domain-list-community/zip/refs/heads/master"
     },
     "openai-domain": {
