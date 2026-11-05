@@ -209,6 +209,10 @@
   },
   {
     "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:data.email.premierleague.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
     "rule": "domain:data.notify.macys.com"
   },
   {
