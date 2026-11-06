@@ -1493,10 +1493,6 @@
   },
   {
     "reason": "exception-overlap-or-not-provably-disjoint",
-    "rule": "regexp:(?:^|\\.)js.*\\.abolezi\\.com$"
-  },
-  {
-    "reason": "exception-overlap-or-not-provably-disjoint",
     "rule": "regexp:(?:^|\\.)js\\.goods\\.redtram\\.com"
   },
   {
