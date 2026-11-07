@@ -413,6 +413,10 @@
   },
   {
     "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:unsubscribe.email.premierleague.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
     "rule": "domain:valuecommerce.ne.jp"
   },
   {
