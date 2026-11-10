@@ -22,7 +22,7 @@
     },
     "pooban-china": {
       "counts": {
-        "domains": 6730,
+        "domains": 6731,
         "ipv4": 7943,
         "ipv6": 11500,
         "regexps": 3
@@ -31,13 +31,13 @@
         "pooban-china": {
           "domain": 44,
           "domain_regex": 3,
-          "domain_suffix": 6683,
+          "domain_suffix": 6684,
           "ip_cidr": 19443
         },
         "pooban-china-domain": {
           "domain": 44,
           "domain_regex": 3,
-          "domain_suffix": 6683
+          "domain_suffix": 6684
         },
         "pooban-china-ip": {
           "ip_cidr": 19443
