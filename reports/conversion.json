@@ -3,7 +3,7 @@
   "categories": {
     "pooban-adguard": {
       "counts": {
-        "domains": 187759,
+        "domains": 189528,
         "ipv4": 0,
         "ipv6": 0,
         "regexps": 0
@@ -11,11 +11,11 @@
       "outputs": {
         "pooban-adguard": {
           "domain": 1,
-          "domain_suffix": 187758
+          "domain_suffix": 189527
         },
         "pooban-adguard-domain": {
           "domain": 1,
-          "domain_suffix": 187758
+          "domain_suffix": 189527
         }
       },
       "regexps_copied_verbatim": []
@@ -112,7 +112,7 @@
     "pooban-openai": {
       "counts": {
         "domains": 38,
-        "ipv4": 401,
+        "ipv4": 431,
         "ipv6": 0,
         "regexps": 7
       },
@@ -121,7 +121,7 @@
           "domain": 17,
           "domain_regex": 7,
           "domain_suffix": 14,
-          "ip_cidr": 401
+          "ip_cidr": 431
         },
         "pooban-openai-domain": {
           "domain": 17,
@@ -129,7 +129,7 @@
           "domain_suffix": 14
         },
         "pooban-openai-ip": {
-          "ip_cidr": 401
+          "ip_cidr": 431
         }
       },
       "regexps_copied_verbatim": [
@@ -161,7 +161,7 @@
     }
   },
   "failure_policy": "Unknown syntax, altered inventory, engine errors, unexpected shrink or reference drift stop publication",
-  "inherited_adguard_diagnostics": 762,
+  "inherited_adguard_diagnostics": 763,
   "mapping": {
     "domain": "domain_suffix",
     "full": "domain",

@@ -121,6 +121,10 @@
   },
   {
     "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "domain:analytics.cibc.com"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
     "rule": "domain:analytics.edgekey.net"
   },
   {
