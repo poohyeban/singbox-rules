@@ -1,28 +1,28 @@
 {
   "artifacts": {
-    "reports/conversion.json": "3a726a90237e20c88b921521daeb8e8ef67bf41846eed44c6aa8361a1cc4a041",
-    "reports/reference-manifest.json": "88116eaf06cf5eb994f1c08adef6dff8f10be307f2df775f2855a655f7da0cb1",
+    "reports/conversion.json": "7886f1b5de944fb43c67e1fc8b77b7c54cd715a3f33020643244398ebb0a3ed6",
+    "reports/reference-manifest.json": "588582dba56efe96c3fcdb5ce6a1aeb816226665e9e7df7a40959f3c4850dbf9",
     "reports/validation.json": "980c9133a8f0bda7811dc491a0e7db30c38ef2c2e54648ca76677ae84f7b1582",
-    "rule-set/pooban-adguard-domain.json": "33e2f6f52f541df56098b1f9718a4a73827a85f423780dca567d3be30c576c2f",
-    "rule-set/pooban-adguard-domain.json.sha256sum": "5d9fd04988660c7666be646c68fbd2b3b25a1c524201423f8e42d6961835c510",
-    "rule-set/pooban-adguard-domain.srs": "d9ad83357daa76a95f28f5bb8cdd0d1ee3317b0642c6a0fc48de8808765b6622",
-    "rule-set/pooban-adguard-domain.srs.sha256sum": "4d3ce55a769d305976f05f9bbd5620788dc96bc7d688c819cad058b161e1bd9a",
-    "rule-set/pooban-adguard.json": "33e2f6f52f541df56098b1f9718a4a73827a85f423780dca567d3be30c576c2f",
-    "rule-set/pooban-adguard.json.sha256sum": "fd23be145373e355c2c0f28ffc2e0da344af108d7372ec222b063dc9a37b55e4",
-    "rule-set/pooban-adguard.srs": "d9ad83357daa76a95f28f5bb8cdd0d1ee3317b0642c6a0fc48de8808765b6622",
-    "rule-set/pooban-adguard.srs.sha256sum": "7e644f348a13476980073232e4edad964bd6430464e6ba32131e5165d5209688",
-    "rule-set/pooban-china-domain.json": "075ff3add7d06250cbc11b87c655c3d6a2365955ac9218981ca1df08d2678fcf",
-    "rule-set/pooban-china-domain.json.sha256sum": "de11e3eb0b587fe7c48a6a198b4cfd0bb51003406db226ca05df0971ebdffd80",
-    "rule-set/pooban-china-domain.srs": "d5947bf41dd861f7a6d51f0c04d30e9dc01fe55864ef29e89df39daa59bf0db4",
-    "rule-set/pooban-china-domain.srs.sha256sum": "31d2f77b70e6959d0e2f063756b2724b0bf02b871760d5076b757c6600b6e8cf",
-    "rule-set/pooban-china-ip.json": "4bb3b795d211153b4e4dceea1208e7a530669db414dcf3c437923cf2a43e38c7",
-    "rule-set/pooban-china-ip.json.sha256sum": "c9789e9612d98de832831e038e1f0d97b684ffd5f5bc0781083a3e093c0f0258",
-    "rule-set/pooban-china-ip.srs": "4c99c6b3144c6c7057e271286d9897eafdc2594c3f2dc61058760147f603cc06",
-    "rule-set/pooban-china-ip.srs.sha256sum": "9d1863c3658d21a8f5648e90dc7f565ec1c81cae1be52f59a08aceda6ce5d10f",
-    "rule-set/pooban-china.json": "f03c44652054282d84c60b9706455a6eb5d187a55093be295e47a131f4640019",
-    "rule-set/pooban-china.json.sha256sum": "d286bb36f45d535fa575b7a90b1eaee3ee8c3d496d46fcb09e5f68bda72b6371",
-    "rule-set/pooban-china.srs": "27b430736ec82bafdcfee7289b8943ff7d4cebf089a57ead76c03593d134fb06",
-    "rule-set/pooban-china.srs.sha256sum": "594c6f07439746422f1f33366a8d9561b53da0201b71e943b42d8544e5de8f60",
+    "rule-set/pooban-adguard-domain.json": "1fdf61203a4d1d076db85c714c0497414ce492415b3302a7a4d88ad8f1945317",
+    "rule-set/pooban-adguard-domain.json.sha256sum": "54909971a12d9ff5f6ba5a71c76d74f123a9e72134e1a06ca1c4ab3f2ed26a97",
+    "rule-set/pooban-adguard-domain.srs": "73ca1ee6e53b271ce860a3d4ee19ce0d956c693f37725c7b1a537aaad0e80f67",
+    "rule-set/pooban-adguard-domain.srs.sha256sum": "35559d1f8170e3981098dfa1ba74aa19d019f1f03875346285aae0681c209a40",
+    "rule-set/pooban-adguard.json": "1fdf61203a4d1d076db85c714c0497414ce492415b3302a7a4d88ad8f1945317",
+    "rule-set/pooban-adguard.json.sha256sum": "7329f336809535bfc3af70b1585e6f354bd189c880853170bb0c3cb256f3c260",
+    "rule-set/pooban-adguard.srs": "73ca1ee6e53b271ce860a3d4ee19ce0d956c693f37725c7b1a537aaad0e80f67",
+    "rule-set/pooban-adguard.srs.sha256sum": "85e54b26f092ac7e8255e0b709aaaff65c490f3e3258bd209c390a8abc723e15",
+    "rule-set/pooban-china-domain.json": "91551e3167b1d1531d6eda5ac3e6cdc34ab3609419571fb600fbcc2f8cdc99e0",
+    "rule-set/pooban-china-domain.json.sha256sum": "81448899d2c7aba0594c219233a559a9c67874478c9caa01c24e0de1b7946561",
+    "rule-set/pooban-china-domain.srs": "878f1821be1a0010d2b340362f73cf1ac54e13984b6f894d24cbeee900ce6b1d",
+    "rule-set/pooban-china-domain.srs.sha256sum": "61cac0c67bd47519720bf1ea6fe1bc805022953ba2926d666058625d502c0806",
+    "rule-set/pooban-china-ip.json": "ac0acd0bda34278dd237286d7125f0214f1d658efad8eea5e76e625064344ff5",
+    "rule-set/pooban-china-ip.json.sha256sum": "8128c73a50bba0cef0ca9f400311ef5e00ce4b36aae5ca31fc4b7e5005af7f87",
+    "rule-set/pooban-china-ip.srs": "3645bcefa0ec37353e33e24f65b8451399490887f9b51309dde7a56ce1aaba89",
+    "rule-set/pooban-china-ip.srs.sha256sum": "306938349ea02178e965599588c5d4256142ef555aff72918ce2f6d506ef05a7",
+    "rule-set/pooban-china.json": "20dfe1a525b4774c4039bf74007af09d8fd19cbcf34ce571f497ffe04d65482e",
+    "rule-set/pooban-china.json.sha256sum": "3e254715f2f4f13a4972846a0f8859516adb3f17316687a2ec23514c3f3949ac",
+    "rule-set/pooban-china.srs": "0a5902d7e84553e2153918bbb8d81d5d24b47c043136ba72c1105505be1c2cb6",
+    "rule-set/pooban-china.srs.sha256sum": "fafbdee2b4d39181becfe074b2df086412ad5e0307e00c9b48a592eb79f9993b",
     "rule-set/pooban-facebook-domain.json": "022cedb919bd7fb8e2a7b1fbbc479b879c1592fe9fb62c8cfb74120dc670ae38",
     "rule-set/pooban-facebook-domain.json.sha256sum": "791b2d4b063000a11d60609293b7e8d6dc1aff4286b89ae4dc75604bb467bfd1",
     "rule-set/pooban-facebook-domain.srs": "fc8015ddc4cf69fd2a6cafce0c439d0ab4d6ab3870b521b472153e696fe43e95",
@@ -51,14 +51,14 @@
     "rule-set/pooban-openai-domain.json.sha256sum": "56effd36a6f66661f32d38ccef7c25df38ce74718e0e1df0875d3b15a17f2202",
     "rule-set/pooban-openai-domain.srs": "0dab8a76c1c857e9dd01cb9911e3ae496f53384b204be8de8dcaac9e29b6caeb",
     "rule-set/pooban-openai-domain.srs.sha256sum": "f384bf6b8f04d6b37358070c8fb9cf199e09b919e33459730defd7d9889a46d1",
-    "rule-set/pooban-openai-ip.json": "da5903d701f5638d36d40868e1303b61fdcff1a90ac863821956af60419adf43",
-    "rule-set/pooban-openai-ip.json.sha256sum": "3b3788699cc7b2ae9a73529e77c1dd12fd74ec9507f22d256059de85f8fcfb61",
-    "rule-set/pooban-openai-ip.srs": "6889de16cebdcad6bc3970a5e712592d410e7bc13aebc05e8ce5a7ba6f8a7f9a",
-    "rule-set/pooban-openai-ip.srs.sha256sum": "bba74f27f2b92c3de70880b60d2d564cad91d432303778d79326caed538b3f46",
-    "rule-set/pooban-openai.json": "9c2669c30ac41ee82af27616e25497d70eea95689ad8fbe0bb256f169fdf6284",
-    "rule-set/pooban-openai.json.sha256sum": "3507238216bd75707927abb5207115d5cc8f3f07bbd8c71f3e937e27a77b8875",
-    "rule-set/pooban-openai.srs": "7b863914daeea7f746e4f6a17ed8f49fcfac48ed50946074603f3adc73503ee4",
-    "rule-set/pooban-openai.srs.sha256sum": "b035bd85c6e08976b7d4c8d8e5557a68aa116cb76dc2efd1df55af5e12bb0269",
+    "rule-set/pooban-openai-ip.json": "76232fd87be08743c6336d6509c8837bbe85fb95bbca4249eb4ab036d51eb53a",
+    "rule-set/pooban-openai-ip.json.sha256sum": "f4df0d14f78c0087184b9b0cb9fb91973c21425c47e5dd76d928bf5efde7c973",
+    "rule-set/pooban-openai-ip.srs": "9aa41c706b8a2804a13e50f43b3f9fc71815c742cb2e4d9f03496ae2fe521025",
+    "rule-set/pooban-openai-ip.srs.sha256sum": "5dee33d8b384e1d7e2f1f01d8b2b139bfda1a2f42be6012e4239bba3db9ada3b",
+    "rule-set/pooban-openai.json": "f04aa8eeee17a1a726f6ea2f011ae7dd144fc9b6f9e53df03cc45c97ff649e04",
+    "rule-set/pooban-openai.json.sha256sum": "41e61daac804be537eb5aacf0ba608e29da8785587153ec2c141670c5b1a5aff",
+    "rule-set/pooban-openai.srs": "e2c124f923f1da39ffac2ab5e051ff97639f99a3f96710f26af6e60075209b1a",
+    "rule-set/pooban-openai.srs.sha256sum": "0d2e21723a21384661b5f02899a428d69ca25e6a95d4c8d20860ccd66ff71ea1",
     "rule-set/pooban-whatsapp-domain.json": "fed1b351dbf0d58d3244c7656f276cca50ad50561c1a5fb6bf9959960ef88cd2",
     "rule-set/pooban-whatsapp-domain.json.sha256sum": "4bdde3d40e850bc5eb379eec21204ee67f733bb5cea546a6a633375d3c09adc9",
     "rule-set/pooban-whatsapp-domain.srs": "69c3a413c97070f9db7ea836c48998217e2fbfb2535b887e312424da843554a3",
@@ -67,14 +67,14 @@
     "rule-set/pooban-whatsapp.json.sha256sum": "e52d7f062dae46b0f127e9039988fec43de3ab7a0ef7aa453f07002c43fd17a5",
     "rule-set/pooban-whatsapp.srs": "69c3a413c97070f9db7ea836c48998217e2fbfb2535b887e312424da843554a3",
     "rule-set/pooban-whatsapp.srs.sha256sum": "25a796a1520ffcf520403948310e5d6de9bd3d3df1301ac73d3c542cdd37d9bf",
-    "rules/AdGuard/Sources/hostname-blocks.txt": "22b0675041025d95ec74239bb72606408f0785589c9b727868a9a7d7bdd61216",
+    "rules/AdGuard/Sources/hostname-blocks.txt": "ce0876e273bc66c2456e787ab03adc4e97896f76c3ee06da87be376a3805a363",
     "rules/AdGuard/Sources/omissions.json": "8e7a02e89c4ad3dca99ca66ed5696537324a9b6596b425b2987b116def8d94b7",
-    "rules/AdGuard/Sources/upstream-filter.txt": "db48d63caeb92183e441cb68fdaf29c6a006365ba494fe979698df2fcfcab46d",
-    "rules/AdGuard/domains.txt": "22b0675041025d95ec74239bb72606408f0785589c9b727868a9a7d7bdd61216",
-    "rules/China/Sources/geolite-country-ip.txt": "95a248b3def7e4e13ee3654b8860b17280c2bf94eeec87adb1ea01b198f208ad",
-    "rules/China/Sources/v2fly-domains.txt": "20846395213a8f403e9a0aa15e4cd9802fcf74026b8dc523c5b9c58a1c216208",
-    "rules/China/domains.txt": "20846395213a8f403e9a0aa15e4cd9802fcf74026b8dc523c5b9c58a1c216208",
-    "rules/China/ip.txt": "95a248b3def7e4e13ee3654b8860b17280c2bf94eeec87adb1ea01b198f208ad",
+    "rules/AdGuard/Sources/upstream-filter.txt": "7698a59d4a3c5d8abe091ae891979d9c2b293f278cc451870f8ea822a7074f67",
+    "rules/AdGuard/domains.txt": "ce0876e273bc66c2456e787ab03adc4e97896f76c3ee06da87be376a3805a363",
+    "rules/China/Sources/geolite-country-ip.txt": "b53978e2eebfe0dae8ed8cb69c3bb3d867179c25d10548da2ee3756aae418df6",
+    "rules/China/Sources/v2fly-domains.txt": "c3d51b475ee7558f532e000941f9bf942f1f92357002f9823bd9f2a9e0a3b2e1",
+    "rules/China/domains.txt": "c3d51b475ee7558f532e000941f9bf942f1f92357002f9823bd9f2a9e0a3b2e1",
+    "rules/China/ip.txt": "b53978e2eebfe0dae8ed8cb69c3bb3d867179c25d10548da2ee3756aae418df6",
     "rules/Facebook/Sources/sukka-domains.txt": "6b634b0f24278573bf6348816555b7c432442e83dfb490b1d84662cad41289b7",
     "rules/Facebook/Sources/v2fly-domains.txt": "31b05e7d835d143704cf9d05d890f18dcd982f8557b66508525ef992109e917d",
     "rules/Facebook/domains.txt": "0d48e1e91cdb5c51911ad7a304d9a71d521c251e04544e742119e62d186e8133",
@@ -86,9 +86,9 @@
     "rules/OpenAI/Sources/geolite-asn-ip.txt": "162d29ec0de6a6b38ba6483d113d4e64bb313d2b299431d9154c2d366dec6d3a",
     "rules/OpenAI/Sources/official-domains.txt": "030a72c1ee747f63132af141e59719ea7e7e4f1083b0c8954510dea0d96b1b3a",
     "rules/OpenAI/Sources/v2fly-domains.txt": "4c57d66df1d76494d670ebb518afbe1b63cfa674ff5c732af59e2b024243a075",
-    "rules/OpenAI/Sources/voice-ip.txt": "1543bc5afe04f5f0f20662a7901355e81db292edf270595fdff72eb4ae89a488",
+    "rules/OpenAI/Sources/voice-ip.txt": "c38426639348aa91617cda6db99c726cb8556a54f9f68c2286240aec1f2a0a2b",
     "rules/OpenAI/domains.txt": "0d329bb409156102618d5424049794aaa101c9ffd761b4b218b454e5f9c81e3f",
-    "rules/OpenAI/ip.txt": "cead6aa56c44d5ea62a4c3e159724991ca6abb98e0cfeb581bffb2321967f1c3",
+    "rules/OpenAI/ip.txt": "d97842ed06f148d144db56fc54c0c4fa91cfde7e38b2496ea27655b055194cc5",
     "rules/WhatsApp/Sources/sukka-domains.txt": "9a8703a3f8a7d7ab0e5a3c470b6d65694d52aaa6d123875f57d65fdacaf18f8b",
     "rules/WhatsApp/Sources/v2fly-domains.txt": "7cd5d94dea52e5d791604ef45b2872ff3677eed49a701753487874ffbddd0a41",
     "rules/WhatsApp/domains.txt": "7cd5d94dea52e5d791604ef45b2872ff3677eed49a701753487874ffbddd0a41"
@@ -97,14 +97,14 @@
   "conversion_omissions": 0,
   "counts": {
     "pooban-adguard": {
-      "domains": 191134,
+      "domains": 189626,
       "ipv4": 0,
       "ipv6": 0,
       "regexps": 0
     },
     "pooban-china": {
-      "domains": 6731,
-      "ipv4": 7918,
+      "domains": 6739,
+      "ipv4": 7914,
       "ipv6": 11499,
       "regexps": 3
     },
@@ -128,7 +128,7 @@
     },
     "pooban-openai": {
       "domains": 38,
-      "ipv4": 539,
+      "ipv4": 410,
       "ipv6": 0,
       "regexps": 7
     },
@@ -150,23 +150,23 @@
   "rule_set_version": 2,
   "sources": {
     "adguard": {
-      "sha256": "db48d63caeb92183e441cb68fdaf29c6a006365ba494fe979698df2fcfcab46d",
+      "sha256": "7698a59d4a3c5d8abe091ae891979d9c2b293f278cc451870f8ea822a7074f67",
       "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
     },
     "asn": {
-      "sha256": "f2d4c3cd075d60378a177add27c092b536b2ed5aa651a1f8b9a6156f6e52085c",
+      "sha256": "6ab0dcb6017b0e5f356d4ac1607427fc5d4da7a8465cb1233e8a9c04df1b4885",
       "url": "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb"
     },
     "china-domain": {
-      "sha256": "93f8609fc035d478747c218c5971dabef24f808ebff065f1c6909458dbb4f0ea",
+      "sha256": "7a47a758b8807495037f4c4c7baf9b6b595444778688382340c6e6dcc171d672",
       "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/release/cn.txt"
     },
     "country": {
-      "sha256": "bdb2b3f86dc278e5a5df64bc6fbe3de03f4844a5e97945a94df76e77049ee788",
+      "sha256": "c3ea0f8763a72c081d4abaf3366270d46414c55f6e36321621c6b59d53f9b17c",
       "url": "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
     },
     "google-domain": {
-      "sha256": "196b92d1466c92edfebb3f91273399fcd224ac3d3e834320c0c29d0fe701db88",
+      "sha256": "11e48f15222b89326311b74ad128fadfe774aa8caca5c105728cc78b76c90731",
       "url": "https://codeload.github.com/v2fly/domain-list-community/zip/refs/heads/master"
     },
     "openai-domain": {
@@ -178,7 +178,7 @@
       "url": "https://raw.githubusercontent.com/SukkaW/Surge/master/Source/non_ip/global.conf"
     },
     "voice": {
-      "sha256": "762df2f791e2353ecf941be0df883d152b0957d32991fc4cff4d1aed79be797b",
+      "sha256": "0852b8be430cb4ae4a68ff8c0169f05bcdc5ce2ab6649cb3fc02d057a50612e7",
       "url": "https://openai.com/chatgpt-voice.json"
     }
   },

@@ -753,6 +753,7 @@ domain:appvipshop.com
 domain:ar.umeng.com
 domain:arco.design
 domain:ark.letv.com
+domain:arknights.com
 domain:arpun.com
 domain:asczwa.com
 domain:asczxcefsv.com
@@ -2752,6 +2753,7 @@ domain:hezuvip.com
 domain:hf-aw.com
 domain:hftfund.com
 domain:hfx.net
+domain:hgto.cc
 domain:hhtravel.com
 domain:hiaiabc.com
 domain:hiascend.com
@@ -2970,9 +2972,12 @@ domain:hxfy888.com
 domain:hxnews.com
 domain:hxsd.com
 domain:hybiome.com
+domain:hycdn.com
 domain:hydun.com
 domain:hypercachenet.com
 domain:hypercachenode.com
+domain:hypergryph.com
+domain:hypergryph.net
 domain:hzchengdun.com
 domain:hzchengdun.net
 domain:hzdtv.tv
@@ -4330,6 +4335,7 @@ domain:obricclouddw.com
 domain:oc.umeng.com
 domain:oceancloudapi.com
 domain:oceanengine.com
+domain:octavedge.com
 domain:ocwms.com
 domain:oeeee.com
 domain:oend.net
@@ -4982,6 +4988,8 @@ domain:sipeed.com
 domain:sjfls6.com
 domain:sjwyx.com
 domain:skimit.net
+domain:skland.com
+domain:skland.net
 domain:sksight.com
 domain:skycn.com
 domain:skypixel.com
