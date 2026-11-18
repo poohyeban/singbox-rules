@@ -3,7 +3,7 @@
   "categories": {
     "pooban-adguard": {
       "counts": {
-        "domains": 190070,
+        "domains": 190372,
         "ipv4": 0,
         "ipv6": 0,
         "regexps": 0
@@ -11,18 +11,18 @@
       "outputs": {
         "pooban-adguard": {
           "domain": 1,
-          "domain_suffix": 190069
+          "domain_suffix": 190371
         },
         "pooban-adguard-domain": {
           "domain": 1,
-          "domain_suffix": 190069
+          "domain_suffix": 190371
         }
       },
       "regexps_copied_verbatim": []
     },
     "pooban-china": {
       "counts": {
-        "domains": 6739,
+        "domains": 6760,
         "ipv4": 7914,
         "ipv6": 11499,
         "regexps": 3
@@ -31,13 +31,13 @@
         "pooban-china": {
           "domain": 44,
           "domain_regex": 3,
-          "domain_suffix": 6692,
+          "domain_suffix": 6713,
           "ip_cidr": 19413
         },
         "pooban-china-domain": {
           "domain": 44,
           "domain_regex": 3,
-          "domain_suffix": 6692
+          "domain_suffix": 6713
         },
         "pooban-china-ip": {
           "ip_cidr": 19413
