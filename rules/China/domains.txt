@@ -3024,6 +3024,7 @@ domain:icbcstandard.com
 domain:icbcstandardbank.com
 domain:icbcstandardresources.com
 domain:icbcstandardsecurities.com
+domain:icc.link
 domain:iccvlog.com
 domain:ichangtou.com
 domain:iciba.com
