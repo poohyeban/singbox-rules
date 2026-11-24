@@ -1,18 +1,18 @@
 {
   "adguard": {
     "badfilter": 5,
-    "blocks_before_exceptions": 192279,
+    "blocks_before_exceptions": 193998,
     "disabled": 1,
     "exception_envelopes": 11,
     "exceptions": 213,
     "important_conservatively_lowered": 5,
-    "input": 192548,
+    "input": 194267,
     "omitted": 763,
-    "output": 191573
+    "output": 193292
   },
   "artifacts": {
     "geoip.dat": "99d9c79149e6755ee1572ecd6c9fd139c994b321ae0f3add554c023f26bfbfee",
-    "geosite.dat": "ad0b88da5730442650afc98e372b51abc5cfecbf5182468c86d3da599bdfdff3"
+    "geosite.dat": "9aeb0cfc24f20583f8c6d35949971f23e96536a40a3facd4f8ad922bc31fd27d"
   },
   "asn_records": {
     "401518": 2,
@@ -20,13 +20,13 @@
   },
   "counts": {
     "pooban-adguard": {
-      "domains": 191573,
+      "domains": 193292,
       "ipv4": 0,
       "ipv6": 0,
       "regexps": 0
     },
     "pooban-china": {
-      "domains": 6765,
+      "domains": 6769,
       "ipv4": 7925,
       "ipv6": 11504,
       "regexps": 3
@@ -38,7 +38,7 @@
       "regexps": 0
     },
     "pooban-google": {
-      "domains": 1125,
+      "domains": 1126,
       "ipv4": 0,
       "ipv6": 0,
       "regexps": 2
@@ -197,7 +197,7 @@
   },
   "sources": {
     "adguard": {
-      "sha256": "77b3972cce7b750e7ca5c07215a9bdf519966de21e2516189804f96cb2b81cc9",
+      "sha256": "892b7da4f685d5188fda250d13e6aec63d0b4e80aa546364fd7d71059e5112e2",
       "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
     },
     "asn": {
@@ -205,7 +205,7 @@
       "url": "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb"
     },
     "china-domain": {
-      "sha256": "fdfd71956e4d4a8ad65f6faac85596467bb4c5023f0e29982a25c0e1da05aab2",
+      "sha256": "4f895181d042ed46b7fd3e34b7da2bbfa6a41910b9621bf82c69d8d0bfdd04c2",
       "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/release/cn.txt"
     },
     "country": {
@@ -213,7 +213,7 @@
       "url": "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
     },
     "google-domain": {
-      "sha256": "73cceab01fbda34236e2dcdaf10ef9e8fa4570201feb69bd1c2293ff3cc6543c",
+      "sha256": "f7107fe0de6f2856f0e2da11bddcc24ac4d0ed3bef07b06e26adc60f5c3bcf11",
       "url": "https://codeload.github.com/v2fly/domain-list-community/zip/refs/heads/master"
     },
     "openai-domain": {
