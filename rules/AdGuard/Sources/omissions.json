@@ -881,10 +881,6 @@
   },
   {
     "reason": "exception-overlap-or-not-provably-disjoint",
-    "rule": "regexp:(?:^|\\.)bapi\\-.*\\.moengage\\.com$"
-  },
-  {
-    "reason": "exception-overlap-or-not-provably-disjoint",
     "rule": "regexp:(?:^|\\.)bar.*\\.shinobi\\.jp$"
   },
   {
