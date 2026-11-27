@@ -2297,6 +2297,10 @@
   },
   {
     "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)telemetry\\..*\\.oci\\.oraclecloud\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
     "rule": "regexp:(?:^|\\.)telemetry\\..*\\.pvp\\.net$"
   },
   {
