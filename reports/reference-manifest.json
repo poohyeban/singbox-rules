@@ -1,18 +1,18 @@
 {
   "adguard": {
     "badfilter": 5,
-    "blocks_before_exceptions": 195108,
+    "blocks_before_exceptions": 195140,
     "disabled": 1,
     "exception_envelopes": 11,
     "exceptions": 212,
     "important_conservatively_lowered": 5,
-    "input": 195376,
+    "input": 195408,
     "omitted": 763,
-    "output": 194402
+    "output": 194434
   },
   "artifacts": {
     "geoip.dat": "8ff505c2f19678e8863f470dc2ba710c53c58ed70755ab5940861de99dfe4721",
-    "geosite.dat": "9fa5e2dd06e4eae4bf49687d77ed22cf458c71dad35a52a956930a908a32f232"
+    "geosite.dat": "b04bb74708f7c4b05c5fc86b141361883953fabd4fe81cd96f6d8ed6862b91dd"
   },
   "asn_records": {
     "401518": 2,
@@ -20,7 +20,7 @@
   },
   "counts": {
     "pooban-adguard": {
-      "domains": 194402,
+      "domains": 194434,
       "ipv4": 0,
       "ipv6": 0,
       "regexps": 0
@@ -197,7 +197,7 @@
   },
   "sources": {
     "adguard": {
-      "sha256": "993f8af6c62252da5e861150df992e1a33724e8abc2526e61e31acdfa8ad8694",
+      "sha256": "507ba0b1b235adfbf397904606aae727e11446a23ef19d3306e5f97f3aa6d9a1",
       "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
     },
     "asn": {
@@ -213,7 +213,7 @@
       "url": "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
     },
     "google-domain": {
-      "sha256": "6e80b5ad55a2827b4fc64a1599a55de18528e6623d6c8aee0bf65984dee94adc",
+      "sha256": "91d76c1ff2de487225d0c98696a218c0712d81abdc68100cd1680bf3161f00ef",
       "url": "https://codeload.github.com/v2fly/domain-list-community/zip/refs/heads/master"
     },
     "openai-domain": {
