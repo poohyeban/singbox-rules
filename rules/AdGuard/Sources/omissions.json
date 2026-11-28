@@ -1257,6 +1257,10 @@
   },
   {
     "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)events\\..*\\.oci\\.oraclecloud\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
     "rule": "regexp:(?:^|\\.)f\\-log\\-.*\\.grammarly\\.io$"
   },
   {
@@ -1598,6 +1602,10 @@
   {
     "reason": "exception-overlap-or-not-provably-disjoint",
     "rule": "regexp:(?:^|\\.)logger\\-.*\\.dailymotion\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)logging\\..*\\.oci\\.oraclecloud\\.com$"
   },
   {
     "reason": "exception-overlap-or-not-provably-disjoint",
@@ -2298,6 +2306,10 @@
   {
     "reason": "exception-overlap-or-not-provably-disjoint",
     "rule": "regexp:(?:^|\\.)telemetry\\..*\\.oci\\.oraclecloud\\.com$"
+  },
+  {
+    "reason": "exception-overlap-or-not-provably-disjoint",
+    "rule": "regexp:(?:^|\\.)telemetry\\..*\\.oraclecloud\\.com$"
   },
   {
     "reason": "exception-overlap-or-not-provably-disjoint",
